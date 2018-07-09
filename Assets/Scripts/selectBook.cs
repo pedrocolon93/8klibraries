@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 //Determines if a book should be opened, and handles opening it
+//By asimonson
 
 public class selectBook : MonoBehaviour {
 	private static GameObject heldObject;
