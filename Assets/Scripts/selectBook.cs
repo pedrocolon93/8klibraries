@@ -2,40 +2,49 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Determines if a book should be opened, and handles opening it
+
 public class selectBook : MonoBehaviour {
-	private GameObject heldObject, book;
-	Collider held;
+	private static GameObject heldObject;
+	private GameObject book;
+	public GameObject openBook;
+	private static Collider held;
+	private static string title = "no book selected";
 
 	// Use this for initialization
 	void Start () {
-		//held = null;//you could hack this by setting it to an empty game object if you're not allowed to do this, and them checking if what you're holding is that empty object
-		//for now, this is hardcoded
-		heldObject = GameObject.Find("closedBook");
+		Debug.Log("Select Book script running.");
+		heldObject = GameObject.Find("Sphere");
 		held = heldObject.GetComponent<Collider>();
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown("space")){
-			Debug.Log("You pressed the space bar!");
-			if(!held.Equals(null)){//should you be using == here instead???
-				Destroy(heldObject);//does this set things to null or do you now have a weird broken ref?
-				book = Instantiate(Resources.Load("Book")) as GameObject;
-			}
-		}
-		
+			if (Input.GetKeyDown("space")){//chenge this to be your grip interaction
+				Debug.Log("You pressed the space bar!");
+				if(grabLeft.isHolding() || grabRight.isHolding()){//you'll need to sort this out more when which hand is grabbing matters
+					if(heldObject.tag == "closedBook"){
+						title = heldObject.name;
+						Debug.Log("the title of this book is " + title);
+						Destroy(heldObject);//does this set things to null or do you now have a weird broken ref?
+						book = Instantiate(openBook);
+						heldObject = GameObject.Find("Sphere");
+						held = GameObject.Find("Sphere").GetComponent<Collider>();
+						title = "no book selected";
+					}
+				}
+			} 
+	}
+	public static string GetTitle(){
+		return title;
 	}
 
-	// //are you holding something right now?
-	// //you can't test this until you know how hands work.
-	// void OnTriggerEnter(Collider other){
-	// 	held = other.gameObject;
-	// 	Debug.log("You're holding a thing!\n" + held);
-	// }
+	public static void setHeldObject(GameObject grabbed){
+		heldObject = grabbed;
+		held = heldObject.GetComponent<Collider>();
+	}
 
-	// void OnTriggerExit(Collider other){
-	// 	held = null;
-	// }
-
-
+	public static GameObject getHeldObject(){
+		return heldObject;
+	}
 }

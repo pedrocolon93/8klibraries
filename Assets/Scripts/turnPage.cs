@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -34,16 +34,22 @@ public class turnPage : MonoBehaviour {//this should p. be a monobehavior
 	public int LINE_LENGTH = 35; //the number of characers which fit on the line
 	int currentPageChar = 0; //how many characters into the page are you?
 	int currentLineChar = 0; //how many characters into the line are you?
+	private string title;
 
 
 
 	// Use this for initialization
-	void Start () {
+	void Awake () {
+		title = selectBook.GetTitle();
+		Debug.Log("turnPage thinks that the title of this book is " + title);
         anim = GetComponent<Animation>();
 
         //read this book
 		pages = new List<string>();
-        reader = new StreamReader("Assets/Text/"+ bookMeta.title);//you need to figure out how this is talking to the rest of this thing
+		//reader = new StreamReader("Assets/Text/Siddhartha.txt");//hardcoded for now
+        //reader = new StreamReader("Assets/Text/"+ bookMeta.title);//you need to figure out how this is talking to the rest of this thing
+        title = selectBook.GetTitle();
+        reader = new StreamReader("Assets/Text/"+title);
         Read();
 
         //- points for style
@@ -62,15 +68,14 @@ public class turnPage : MonoBehaviour {//this should p. be a monobehavior
         page2Text.text = text2;
         page3Text.text = text3;
         page4Text.text = text4;
+
 	}
 	
 	// Update is called once per frame
-	//right now this only flips forwards on page flips
 	void Update () {
 		if (Input.GetKeyDown("j")){//flip forwards
 			if(first == false){
 	        	print("j key was pressed");
-	        	//make this more abstract later by setting whole page content to a var
 	        	text1 = text3;
 	        	page1Text.text = text1; //these might not be necessary
 	        	text2 = text4;
@@ -92,12 +97,11 @@ public class turnPage : MonoBehaviour {//this should p. be a monobehavior
 	        else{
 	        	first = false;
 	        	anim.Play(anim.clip.name);
-	        	Debug.Log("the animation should have played?");
+//	        	Debug.Log("the animation should have played?");
 	        }
 	    }
         if (Input.GetKeyDown("h")){//take it back now y'all
 			if(first == false && currentPage>0){
-                print("h key was pressed");
 	        	text3 = text1;
 	        	page3Text.text = text3; //these might not be necessary
 	        	text4 = text2;
@@ -107,11 +111,11 @@ public class turnPage : MonoBehaviour {//this should p. be a monobehavior
 
                 currentPage--;
                 text2 = pages.ElementAt(currentPage);
-                Debug.Log("current page: " + currentPage);
+ //               Debug.Log("current page: " + currentPage);
 
                 currentPage--;
                 text1 = pages.ElementAt(currentPage);
-                Debug.Log("current page: " + currentPage);
+  //              Debug.Log("current page: " + currentPage);
 
                 page1Text.text = text1;
 	        	page2Text.text = text2;
@@ -127,18 +131,28 @@ public class turnPage : MonoBehaviour {//this should p. be a monobehavior
 	      }
     }
     	private void Read(){
-    		while(reader.Peek() > 0){
-																	Debug.Log("You got into the while loop");
-			char nextChar = (char)reader.Read();
-																	Debug.Log("nextChar: " + nextChar);
-			if(nextChar == 92 && reader.Peek()==110){//if there's a newline character
+    		//get the data out of the file and into a better format
+    			//why is C# like this?
+    		Debug.Log("read from file");
+    		string textString = reader.ReadToEnd();
+    		Debug.Log("end read from file");
+    		Queue<char> text = new Queue<char>();
+    		Debug.Log("start converting to queue");
+    		foreach(char c in textString){
+    			text.Enqueue(c);
+    		}
+    		Debug.Log("end converting to queue");
+
+    		Debug.Log("start sorting pages");
+    		while(text.Count != 0){//this line is currently the issue
+			char nextChar = text.Dequeue();
+			if(nextChar == 92 && text.Peek()==110){//if there's a newline character
 				page += word;//you're done with that word
 				int remainder = LINE_LENGTH - currentLineChar;//# of characters left in the line
 				currentPageChar += remainder;
 				currentLineChar = 0;//you're at the 0th positionon the new line
 				if(currentPageChar >= PAGE_LENGTH){//are you done with the page?
-					pages.Add(page);//this will be a nightmare and you know it
-																	Debug.Log("This page was added: " + page);
+					pages.Add(page);
 					page = "";
 					currentPageChar = 0;
 				}
@@ -153,7 +167,7 @@ public class turnPage : MonoBehaviour {//this should p. be a monobehavior
 					currentPageChar += remainder;
 					currentLineChar = word.Length;
 					if(currentPageChar >= PAGE_LENGTH){//are you done with the page?
-						pages.Add(page);//this will be a nightmare and you know it
+						pages.Add(page);
 						page = "";
 						currentPageChar = 0;
 					}
@@ -167,5 +181,6 @@ public class turnPage : MonoBehaviour {//this should p. be a monobehavior
 				currentLineChar++;
 			}
     	}
+    	Debug.Log("end sorting pages");
 	}
 }
