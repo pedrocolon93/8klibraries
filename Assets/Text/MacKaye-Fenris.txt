@@ -1,0 +1,5267 @@
+The Project Gutenberg eBook, Fenris, the Wolf, by Percy MacKaye
+
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+Title: Fenris, the Wolf
+       A Tragedy
+
+
+Author: Percy MacKaye
+
+
+
+Release Date: June 21, 2018  [eBook #57371]
+
+Language: English
+
+Character set encoding: UTF-8
+
+
+***START OF THE PROJECT GUTENBERG EBOOK FENRIS, THE WOLF***
+
+
+E-text prepared by Paul Marshall, Mary Glenn Krause, MFR, and the Online
+Distributed Proofreading Team (http://www.pgdp.net) from page images
+generously made available by Internet Archive (https://archive.org)
+
+
+
+Note: Images of the original pages are available through
+      Internet Archive. See
+      https://archive.org/details/fenriswolftraged00mack
+
+
+Transcriber’s note:
+
+      Text enclosed by underscores is in italics (_italics_).
+
+      Small capitals have been converted to SOLID capitals.
+
+
+
+
+
+FENRIS, THE WOLF
+
+
+[Illustration: Publisher's logo]
+
+
+FENRIS, THE WOLF
+
+A Tragedy
+
+by
+
+PERCY MACKAYE
+
+Author of “The Canterbury Pilgrims”
+
+
+
+
+
+
+New York
+The Macmillan Company
+London: Macmillan & Co., Ltd.
+1905
+
+All rights reserved
+
+Copyright, 1905,
+By the Macmillan Company.
+
+Set up and electrotyped. Published April, 1905.
+
+Norwood Press
+J. S. Cushing & Co. — Berwick & Smith Co.
+Norwood, Mass., U.S.A.
+
+
+                                   TO
+                             NORMAN HAPGOOD
+
+                           CRITIC AND FRIEND
+
+
+
+
+AUTHOR’S NOTE
+
+
+The invocation of Ingimund to Odin, on page 38, is adapted from
+Fragments of a Spell Song, preserved as an insertion in the Great
+Play of the Wolsungs, and to be found, both original and translation,
+in the _Corpus Poeticum Boreale_ of Vigfusson and Powell, Oxford,
+1883.
+
+For dramatic reasons, various liberties have been taken by the writer
+with those elements of this play which are drawn from Scandinavian
+mythology. For example, according to mythology, the Fenris-wolf is
+the offspring, not of Odin, but of Loki; the wolf and Baldur are not
+brothers; no mention is made of the wolf’s Pack. Moreover, in the Old
+Icelandic utterances of the Pack—for purposes of sound merely—a
+preterite form has twice been used for a present tense, as in _Ulfr
+sofnathi_, “the wolf sleepeth.”
+
+Where authenticity, however, has harmonised with the dramatic idea,
+it has equally been the writer’s aim.
+
+    CORNISH, N.H., March, 1905.
+
+
+
+
+               CHARACTERS
+
+           OF THE PROLOGUE
+
+    ODIN
+    BALDUR
+    THOR
+    LOKI
+    FENRIS
+    FENRIS’S PACK
+    FREYJA
+
+             OF THE PLAY
+
+    INGIMUND,    _Priest of Odin_
+    EGIL,        _a Hunter_
+    ARFI,        _a Dwarf, his brother_
+    YORUL,       _liegeman of Egil_
+    ROLF,        _liegeman of Egil_
+    ERIC,        _liegeman of Egil_
+    WULDOR,      _liegeman of Arfi_
+    A LITTLE BOY
+    THORDIS,     _daughter of Ingimund and priestess of Odin’s temple_
+    FRIDA,       _one of her Virgins_
+    A LITTLE GIRL
+
+    FOLK, PRIESTS, VIRGINS, CHILDREN
+
+
+
+
+                        SCENES
+
+    THE PROLOGUE.  _The crater of a volcano; dawn._
+
+    ACT FIRST.
+        SCENE I.   _The rune-stone of Odin, outside a
+                                tribal temple; morning._
+        SCENE II.  _Egil’s lodge in the forest; toward twilight._
+
+    ACT SECOND.
+        SCENE I.   _A prison chamber; day._
+        SCENE II.  _The same; night._
+
+    ACT THIRD.     _A forest glade; the pool of Freyja; early morning._
+
+    ACT FOURTH.    _The rune-stone again; sunset._
+
+                      TIME AND PLACE
+    _The Age of Northern Mythology; Iceland. The incidents of
+          the play are conceived as taking place within the cycle
+          of a year._
+
+
+
+
+                            THE PROLOGUE
+
+
+                     Foreground—a frozen crater
+
+    _At back, a cavern. Overhanging this, at left and back,
+        snow-crusted cliffs, partly bared by the winds, stand
+        out against the stars._
+
+    _On one of these_, ODIN _seated; on his
+        shoulders, two ravens. Beneath him, in the crater and
+        cavern, half-discernible_, FENRIS _and his_
+        PACK.
+
+                         ODIN
+    He sleeps, yet restive still; with eyelids squint
+    Through which his eyes, in dreams still shifting, flash
+    Like flame through knot-holes. Yet he sleeps; beside him
+    His wild pack, crouching, share his chain.—A lull:
+    Betwixt moonset and sunrise, one at least,
+    One lull in that insensate harsh defiance,
+    The beast-night-barking of my wolfish son.
+    You stars! Fenris is quiet. Now the dews
+    May fall in silence, now the mountain birds
+    Nest silent by the unawakened morning,
+    The wide dark fold its wings and dream. Now peace,
+    The infinite soliloquy of thought,
+    Descends on Odin.
+
+    [_A silent pause, during which the first pale signs of dawn
+        appear on the crags. Odin whispers to the ravens on his
+        shoulders and they fly away. He sits motionless and
+        serene._]
+
+                       THE PACK
+                   [_Slumbrously._]
+    Ulfr! Ulfr sofnathi!
+
+                         ODIN
+              [_Gazes again on_ FENRIS.]
+                         That this dread should breathe!
+    And yon beast born from out my loins—to me,
+    To me, that from this forehead plucked an eye
+    To pawn for Mimi’s knowledge.—Wisdom, truth,
+    Beauty, and law, the tranquil goals of mind,
+    All these had I attained, and I a god;
+    Yet on the lank, alluring hag of Chaos
+    Begat this son, this living fang.
+
+                       THE PACK
+                    [_Slumbrously._]
+    Ulfr! Ulfr sofnathi!
+
+                       ODIN
+                         O thou
+    Dumb spirit of the mind! O mystery!
+    Were there a god whom Odin might invoke,
+    To thee would Odin sue for pity.—Ages,
+    A thousand ages, anguish;
+    Anguish, remorse, forgiveness, malediction,
+    Light into darkness, horror into hope,
+    Revolving evermore.—O pain, O pain,
+    Sear not my spirit blind!—Thou, tameless wolf,
+    God of the void eternal retrograde,
+    Prone deity of self, by that thou art—
+    Illimitable passion, joyance mad
+    Of being, hate, brute-cunning, gnawing lust,
+    Fenris, I curse thee.
+                          [_Fenris wakes._]
+
+                         THE PACK
+                       [_Wildly._]
+    Ulfr! Ulfr vaknathi!
+
+                          FENRIS
+    Father!
+
+                           ODIN
+    Still that name!
+
+                          FENRIS
+    Father!
+
+                           ODIN
+    Fenris, my son, forgive me.
+
+                          FENRIS
+    Fetch Fenris Freyja.
+
+                           ODIN
+                               Bastard wolf,
+    Be silent.
+
+                          FENRIS
+    Baldur, my brother’s bride betrothèd,
+    Freyja, fetch me.
+
+                           ODIN
+                  Still no longing but ’tis lust,
+    No aspiration but ’tis appetite.
+
+                          FENRIS
+    Anarch! anarch! anarch! Father, free me!
+
+                           ODIN
+    Free thee, thou poor antagonist. Knowest thou
+    Not yet why thou art chained? Retarded thing,
+    Emancipate thyself! What might it avail
+    Though Odin burst these links and loosed thee?—Thou
+    Thyself art thine own bondage and thy pain.
+
+                         THE PACK
+    Ulfr! Ulfr!
+
+                          FENRIS
+    Anarch! anarch! Ulfr!
+
+                           ODIN
+    Yet could’st thou show some genesis of good,
+    Some spring of growth. Hadst thou, in all these ages,
+    Waxed toward my stature imperceptibly
+    Even as the seed, that germinates in darkness,
+    Feels toward the sky; yea, hadst thou now one pale
+    Potential spark of godhood, nobler desire,
+    Evolving intellect, one lineal trait
+    To prove that upward through thy brutish heart
+    Yearns infinite Reason, even now, poor son,
+    Would I strike off these fetters, set thee free,
+    Thee and thy pack, and put my hope in time.
+
+                         THE PACK
+    Heil! Heil, Othinn!
+
+                          FENRIS
+    Fenris! Free him.
+
+                           ODIN
+    But lo! instead, what art thou? Ye faint stars,
+    Before you close your eyes in day, once more
+    Behold him! Ye icy craters and hoar caves,
+    Thou solitary dawn, eternal sky,
+    Perennial snows—you timeless presences,
+    Behold your consummation: this, even this,
+    Is Odin’s elder son, creation’s heir!
+
+                          FENRIS
+    Anarch! anarch! anarch! anarch! anarch!
+
+    [_Odin, covering his face, turns away and disappears behind
+        the crag. Fenris, with his pack, retires into the
+        cavern, dragging his chain. Outside_ BALDUR
+        _is heard singing, joined, in chorus, by the voices of
+        nature on whom he calls_.]
+
+                          BALDUR
+    Flushing peak, fainting star,
+            Freyja!
+    Torches in thy temple are,
+            Freyja!
+          Spirits of air,
+          Anses and elves,
+          Brightens the dawn,
+          Freyja is gone.
+    Come! let us go to her, girding ourselves.
+
+                         CHORUS
+    Freyja, where art thou?
+        Where? Where?
+
+       [FREYJA _enters, looking fearfully around her_.]
+
+                          FREYJA
+    Those giant beards and backs!—They turn and look.
+    The peaks pursue me, and the nudging cliffs
+    Thrust out great chins and stare. Where should this lead?
+
+                          BALDUR
+                       [_Outside._]
+    Mortal day, man’s desires,
+            Freyja!
+    Feed on earth thine altar-fires,
+            Freyja!
+          Spirits of earth,
+          Wood-sprites and Wanes,
+          Gone is our mirth,
+          Sorrow remains.
+    Come! let us hasten and bid her beware!
+
+                         CHORUS
+    Freyja, where art thou?
+        Where? Where?
+
+                          FREYJA
+    Can this place be i’ the world? And were such shapes
+    Wrought in the dear creation? And that voice—
+    Was it this crater’s frozen mouth that moaned
+    For blossoms and the south wind and my love?
+
+                          BALDUR
+                        [_Enters._]
+    Freyja!
+
+                          FREYJA
+         O Baldur, come!
+
+                          BALDUR
+                            What hast thou seen?
+    Why hast thou left the silver roof of shields,
+    Thy lover’s eyes, the laughter of the gods,
+    To wander forth in night?
+
+                          FREYJA
+                            Barkings I heard.
+
+                          BALDUR
+    Hush, Freyja!
+
+                          FREYJA
+                  Through the music of the gods
+    Faintly I heard it knell and yearn for me;
+    And so I stole away. But tell me—
+
+                          BALDUR
+                                  Come!
+
+                          FREYJA
+    Tell me what thing of nameless woe—
+
+                          BALDUR
+                                  Oh, come
+    And ask not. Come away to Valhal.
+
+    [_He leads her impetuously away from the crater toward
+        the sunrise._]
+
+                          FREYJA
+                    [_Resists gently._]
+                                      Baldur!
+
+                          BALDUR
+    Freyja, look down! Spring leaps among the valleys
+    And calls his universal flocks, to drink
+                  The love of Freyja.
+    The forests rush together and the groves,
+    And the male oaks, like herded elk at war,
+    Tangle their budding antlers, and moan loud
+                  For Freyja’s love.
+
+    Look down! The silvered pastures and the lakes
+    Lift all their sacrificial clouds, to crave
+                  The love of Freyja;
+    And day’s bright stallion, snorting in the east,
+    Paws the pale stream of morning into gold
+    And champs his golden curb to burning foam
+                  For Freyja’s love.
+
+            [_He draws her farther away._]
+
+                          FREYJA
+    But if _one_ yearn in vain—
+
+    [_The rattle of Fenris’s manacles echoes in the crater._]
+
+                         THE PACK
+    Ulfr! Ulfr vaknathi!
+
+                          FREYJA
+                         Listen! They cry—
+    “The wolf awakeneth!” What wolf? And why
+    That clang of steel?
+
+                          BALDUR
+                        His chain.
+
+                          FREYJA
+                 [_In dreadful wonder._]
+                                    But _he_?
+
+                          BALDUR
+                                          A beast
+    Untamed and tameless.—Ask not with thine eyes!—
+    Fenris, my brother.
+
+                          FREYJA
+          [_Springs joyfully toward the crater._]
+                      Ah!
+
+                          BALDUR
+                      [_Stays her._]
+                            Where art thou going?
+
+                          FREYJA
+    To greet my lover’s kindred. Were it not well?
+
+                          BALDUR
+    Oh, would it were! Look not; this kin is monstrous.
+
+                          FREYJA
+    Is it not a god as we?
+
+                          BALDUR
+                           It is a god,
+    Freyja, but not as we.—It is the wolf-god,
+    Lord of the dumb and kithless wild, that live
+    To breed and kill their forms of dreadful beauty—
+    A vacant sacrifice to him: the doe,
+    That stills all night her knocking heart, to hear
+    The wood-cat’s footfall, breathes mute prayer to Fenris;
+    The frothing stag, that blazons the black boar
+    With gules of death, bruits hymns to Fenris; yet
+    Their pangs assuage him not, for he himself
+    Remains the abject deity of lust,
+    His rites, the stretched claw and the stiffened mane;
+    His priest—a sated fang; his altar—fear.
+
+                          FREYJA
+    But why makes he his sanctuary thus
+    Lonely in desolation?
+
+                          BALDUR
+                          ’Tis the will
+    Of Odin. Ask no more. This cleft he chose
+    Wherein to hide the secret woe of the world,
+    That never thou shouldst look upon its face.
+
+                          FREYJA
+
+    I?
+
+                          BALDUR
+        Thou, O maiden! Thou art the hope of the world.
+
+                          FENRIS
+    Freyja!
+
+                          FREYJA
+            He calls me.
+
+                          FENRIS
+                          Freyja!
+
+                          FREYJA
+                             Hark! He yearns
+    For me!
+
+                          BALDUR
+                   [_Urging her away._]
+        ’Tis Odin’s will.
+
+                          FENRIS
+                          Freyja!
+
+                          FREYJA
+                               He cries
+    In pain. Hold me no longer.—Fenris!
+
+                           ODIN
+    [_Entering, intercepts her path with his spear._]
+                                     Stay!
+
+                          FREYJA
+    Allfather! hark his pain. Alas, poor wolf!
+
+                           ODIN
+    Poor wolf? Poor world! poor blind, precarious Reason,
+    Beneath whose sovereign throne this horror sits,
+    Cat-crouching to usurp it.—Fear him; go!
+
+                          FENRIS
+    Ai! ai! anarch! Freyja!
+
+                          FREYJA
+    He yearns for me. Am I not beautiful?
+    Am I not holy? Wherefore should I fear?
+    All living things love Freyja; gods and men,
+    Anses and elves and helpless animals.
+    Where I walk glittering, there lovers press
+    And consecrate their eyes and beat their hearts
+    Like moths against the moon. And shall I go
+    Nor smile once kindly on him? Even the moon
+    Is kinder to her loves.
+
+                           ODIN
+                           He craves no smile
+    From thee, nor ever smiled into the face
+    Of love since his birth-hour. He lusts for thee.
+
+                          FREYJA
+    Why should he not? Hath Odin never lusted?
+    What mind that knows the lust of intellect
+    Shall mock desire? Ah! Who that ever yearned,
+    Yearned not in ignorance?
+
+                          BALDUR
+                             Have pity, father!
+
+                           ODIN
+                      [_To Freyja._]
+    Child, pitiest thou this thing?
+
+                          FREYJA
+                              Hath not its voice
+    Cried out immortally and craved me? Pity?
+    _Love_ is a kind of pity for itself
+    That longs so endlessly. Allfather, never
+    Ere now hast thou gainsaid me.
+
+                           ODIN
+                              Yet must now!
+    This bitterness is mine alone to bear.
+    O Freyja! O my Baldur! You of all
+    The creatures of my will, bright lovers, you
+    Only are happy. Be so still. Depart!
+    Forget these wolvish cries; seek not to help
+    Evil unsolvable.
+
+                          FREYJA
+                     What then is evil,
+    That lovers may not solve it?
+
+                           ODIN
+    [_His face turning wistful with a beautiful light,
+           lifts his obstructive spear, and stands from
+           the path._]
+                             Hope of the world!
+
+                          FENRIS
+    Freyja!
+
+                           ODIN
+        Behold!
+
+    [_He watches with the look of wistfulness as Freyja and
+        Baldur, springing to the brink of the crater, gaze down
+        upon Fenris._]
+
+                          FREYJA
+                          Ah me!
+
+                          BALDUR
+                            Fenris, my brother!
+
+                          FREYJA
+    O pain! Why dost thou look upon me so?
+
+                          FENRIS
+    Fair art, Freyja; shalt Fenris fear not?
+
+                          FREYJA
+    What wouldst thou?
+
+                          FENRIS
+    Lithe thy limbs are; lief am to lie with thee.
+
+                         FREYJA
+                  Are these snows thy dwelling-place?
+    No flowers grow here. Take these.
+
+    [_Freyja lets fall some of her flowers into the crater._]
+
+                          FENRIS
+         [_Tearing them, as the Pack yells._]
+    Anarch! anarch!
+
+                          FREYJA
+                     [_Drawing back._]
+                                 Alas!
+
+                          BALDUR
+                            Peace, brother!
+
+                          FREYJA
+    Thou lovest me. Why, then, art thou not glad?
+
+                          FENRIS
+    Chafe, choke me, chains; chaffeth the churl at me!
+
+                          FREYJA
+    Take heart; we come to bring thee peace. O Baldur!
+
+    [_Clinging to Baldur, she gazes with fascinated awe upon
+        Fenris, who, pacing ever in and out, amid his involving
+        Pack, with the swift, incessant shuttle movement of
+        a caged wild thing, upturns his shifting eyes in
+        yearning._]
+
+                          FENRIS
+    Free me, Freyja; frore am I, frost-bit,
+    Go we together into greenwood glad.
+    Mirk under moon-mist mad will meet thee,
+    Hunt thee from hiding, thy heart-beats hear!
+    Press thee, panting!
+
+                         THE PACK
+    Ulfr! Ulfr!
+
+                          FENRIS
+    Bite—bark at thee—
+
+                         THE PACK
+    Ulfr! Ulfr!
+
+                          FENRIS
+                             Miles, miles, miles!
+
+                          FREYJA
+                      [_To Baldur._]
+    He loves me, yet his looks are terrible.
+    He saw me, yet he smiled not. Flowers I gave him,
+    But he destroyed them. Sorrowful he is,
+    Yet hath no tears in his eyes.—What shall we do?
+
+                          FENRIS
+    Free me, Freyja; fair art thou, froward—
+    Go we together into greenwood glad.
+    Burns thine eyebeam bright as the bitch-wolf’s,
+    Longeth Fenris in thy lair to lie;
+    Longeth to chase thee.
+
+                         THE PACK
+    Ulfr! Ulfr!
+
+                          FENRIS
+    Chafe, champ thee—
+
+                         THE PACK
+    Ulfr! Ulfr!
+
+                          FENRIS
+                            Leave thee with child.
+
+                          FREYJA
+    Baldur, what reeling darkness snows around us
+    From heaven? The rose of dawn is stung with blight.
+
+                           ODIN
+                         [_Aside._]
+    O mystery! O will behind the will,
+    How shall this end?
+
+                          BALDUR
+                      From heaven no darkness falls;
+    It is the glamour of his woeful eyes,
+    That spet the night within them.
+
+                          FREYJA
+          [_Half wildly, whispers at Baldur’s ear._]
+                                     It must cease!
+    The shy bird hath his song within the wood,
+    The shepherd’s call is sweet along the hills,
+    To husband and to lover are the sounds
+    Of gracious voices in the home places,—
+    To _him_, the ceaseless clanging of his chain.
+
+                          BALDUR
+    O Freyja, we will minister to him,
+    Until for him the shy bird’s song is sweet,
+    And sweet the shepherd’s call along the hills.
+    Fenris!
+
+    [_Swinging from the brink of the crater, he lets himself
+        down. As he descends, Fenris springs toward him to the
+        limit of his chain._]
+
+                          FENRIS
+    Hail, Baldur! hail, brother! Boast thy beauty now;
+    Woo now and wive thee, welcome to Fenris’ woe.
+    All elf-gifts thou asked Odin gave thee,
+    Sunlight, summer, song for solace,
+    Fair face, freedom, Freyja to friend.
+    Me what gave he? Mark!—Mountain-mist, madness,
+    Monstrous made me, marr’d, wolf-masked,
+    Cramped in snow-crater, frost-crusted, chained;
+    Numb, naked, night-winds gnaw me,
+    Blistereth black ice, biteth my bones.
+
+                          BALDUR
+    Thou shalt be free.
+
+                          FENRIS
+    Me mocketh, mocketh! Ai!
+
+                          BALDUR
+                          Fenris, my brother, hear me!
+    I bring thee freedom.
+
+                          FENRIS
+           [_Holding out his chain to Baldur._]
+                                Liest;—loose me!
+
+                          BALDUR
+                          Hush! I know the secret
+    How thou mayst slip these shackles. I have learned
+    From Odin how he binds thee. Wilt thou hear?
+
+                          FENRIS
+    [_Craftily beckoning Baldur under the shadow of a cleft._]
+    Tss! Wise is the One-Eyed. Tss! read me thy riddle now.
+
+                          BALDUR
+    Know then, O Fenris, Odin of himself
+    Is weak to hold thee. Of his kin, another
+    Conniveth with him.
+
+                          FENRIS
+    Kin, sayst?
+
+                          BALDUR
+                Thou, his son. Thou forgest
+    Chains stubborner than Odin’s, links of lust
+    Mightier than these of steel, which are themselves
+    The might of these thou wearest. O my brother,
+    Lay off thine own, and Odin’s shall be straw.
+
+                          FENRIS
+                  Thus readest thy riddle?
+
+                          BALDUR
+    Thus findest thou freedom: do our father’s will.
+    His law is wisdom. All the folk of heaven
+    And earth and hell obey him gladly; thou—
+    Submit thou also; make thine oath to Odin.
+
+                          FENRIS
+    Oathless be Odin; am _I_ earth’s overlord!
+
+    [_Odin beckons to the eastward with his spear. From the
+        distance comes a flash of fire and faint thunder._]
+
+                          BALDUR
+    Hush, brother, hush! He hears; for thy pain’s sake
+    Remember he is Allfather. Be meek.
+
+                          FENRIS
+    Am _I_ Asa’s heir!—I—I—I am Allfather!
+
+    [_By a dazzling river of light and thunder-peal, the whole
+        scene is riven. On the peaks at either side appear_
+        LOKI _and_ THOR. _Loki holds in his
+        hand a serpentine whip of many lashes, as of glittering
+        brass; Thor, a white hammer. The Pack cower, moaning;
+        Fenris stands glaring, with head bent backward as in
+        sudden pain._]
+
+                           ODIN
+    Hail, Loki! Welcome, Thor! in happy time.
+    Are ye not come to crown me Odin the Wise?
+    Shake out the live scorn of thy withering laughter,
+    Loki, over the world: Odin hath been defied!
+    Hammer it, Thor, on the clanged doors of hell,
+    Till their intestine thunders toll our doom—
+    “The wolf shall sit alone, at Valhal’s feast,
+    And eat of Odin’s heart!”
+
+                          FREYJA
+                              Alas! What words
+
+                           ODIN
+    This is mine heir. Hath it not spoken? This
+    Shall sit one day in Odin’s seat. Mine heir!
+    The heir of all the gods. Behold then, gods,
+    How this, your prince, receives his tutelage.
+
+                          BALDUR
+    Father, what wilt thou do?
+
+                           ODIN
+                               Tame him, the tameless;
+    The eternal goad against the eternal stone.
+    Yea, though I tame him not till doomsday darken.
+                       [_To Loki._]
+    Loosen thy scourge.
+
+    [_Held by his chain, Fenris flees wildly in circles, and
+        seeking to hide himself, finally crouches in terror,
+        centre. He is prevented from entering the cavern by
+        Thor, who stands there._]
+
+                          FENRIS
+    Anarch! Ai! anarch! Anarch! Ulfr! Ulfr!
+
+                     BALDUR AND FREYJA
+                           Have pity!
+
+                           ODIN
+                                Pity ask
+    Of him; this wolf must reign or I. Strike, Loki!
+    Let thy bright lashes scorch with all their snakes
+    Till the live, brassy serum eats and crawls
+    Into the writhing blood. Begin!
+
+                     BALDUR AND FREYJA
+                           Have mercy!
+
+    [_As Loki swings his whip of fire, the Pack beneath fall on
+        their faces. Amid them Fenris crouches at half stature.
+        Baldur and Freyja kneel as frozen, with lifted hands
+        toward Odin. Thus in sudden twilight and silence, fine
+        silent lashes of unintermittent lightning uncoil and
+        coil, as the scourge is whirled, around the cringing
+        body of the wolf. A shudder only reveals his extreme
+        pangs._]
+
+                           ODIN
+    Cease! [_Loki ceases._] Wolf, what of thine oath?
+
+                          FENRIS
+    Oathless am I.
+
+                          BALDUR
+                                Fenris, be tamed!
+
+                          FENRIS
+                    I—I—I am Allfather!
+
+                           ODIN
+    Sublime inanity! heroic ape!
+    This strong defiance were itself divine,
+    And thou a titan-martyr, had thy pride
+    One rational aim commensurate with thy woe.
+    But all thy suffering is purposeless.
+    Strike, Thor! Make of his obdurate heart thine anvil.
+
+                         THE PACK
+         [_Some fawning toward Odin, others seeking
+                   protection of Fenris._]
+    Heil, Othinn! Ulfr, heil!
+
+    [_As Fenris, by a gesture of rage, drives these from him
+        into the cavern, Thor raises his hammer. Immediate night
+        shuts out the scene. In this surge of darkness the
+        deep rolling of thunder swells and culminates, as by
+        waves, in the blank burst of the thunder-bolt. Through
+        a half-lull, amid moaning of the Pack, are heard voices
+        from the crater._]
+
+                      BALDUR’S VOICE
+    She leaps. Hold, Thor! She casteth herself down.
+
+                      FREYJA’S VOICE
+    Beat on my heart, for mine containeth his.
+
+                           ODIN
+    Light! light once more!
+    [_The thunder dies away. Sudden dawn breaks, ripening
+             soon to daylight. Within the crater, Freyja is
+             revealed, standing over the exhausted form of
+             Fenris._]
+                            Freyja, what hast thou dared?
+
+                          FREYJA
+    The bolt of iron and the scourge of brass
+    Avail not, Odin.—Let me conquer him
+    For thee!
+
+                           ODIN
+              How wouldst thou tame him?
+
+                          FREYJA
+                                       By my love,
+    Yea, and the exceeding might of Baldur’s love,
+    Whose gracious arts of poesie shall aid me.
+    Grant him to us!
+
+                          BALDUR
+                     Grant him to us, O father!
+
+                           ODIN
+                      [_Going apart._]
+    O thou unknown Destroyer and Deliverer,
+    Rape not again from me this nestling hope!
+                       [_He descends into the crater._]
+
+                     BALDUR AND FREYJA
+    Grant him to us, Allfather, to be tamed!
+
+                          FENRIS
+       [_Clutching the snow at their feet, feebly._]
+    I—I am Allfather!
+
+                           ODIN
+    Lovers, I grant him to you; but not here,
+    For this concession must be darkly hid
+    Till you have proved its beauteous consummation.
+    Not, therefore, here I grant, but yonder.
+                      [_Indicates the earth below them._]
+                                   There
+    You shall enact a vast experiment,
+    Whereof the pregnant sequel none may know
+    Save only him, the master magian,
+    Whose prentices we gods and titans are,
+    And the blind wills of men his medium.
+    For he, with silent face from us averted,
+    Holds in the awful hollow of his hand
+    The world—his crucible, and plies with them
+    Ordeals of anguish and of ecstasy.
+    Therefore the earth must be your place of passion,
+    And there in slumber, even as mortals dream,
+    Slumb’ring, that they are bright immortal gods,
+    You shall be mortals, and shall walk as men,
+    Forgetful of your immortality.
+
+    [_Faintly, as from a great distance, there rises a sound of
+        many voices crying, “Odin! Asa Odin!” and the rumour of
+        beasts in pain._]
+
+    Hark, now! from far below us, the deep moan
+    And lowing of a mortal sacrifice.
+    Speak, Thor! What seest thou at Odin’s altar?
+
+                           THOR
+    A mighty hunter and a twisted dwarf
+    Make sacrifice; rivals they seem, in feud,
+    And claim the hand of Thordis, thy priest’s daughter,
+    And the priest cries on Odin for a portent
+    To choose which of the brothers shall be bridegroom.
+
+                           ODIN
+    Lo, then, my portent! We ourselves, we four,
+    Shall be those rival brothers, priest and bride;
+    Loki and Thor shall ravish them with death
+    That we, in resurrection, may take on
+    Their bodies as our mortal vestiture.
+    For I will act with you this mystery,
+    Dreaming myself the priest of mine own shrine;
+    And Freyja, child, thy goddess heart shall beat
+    Within the heart of Thordis, mortal maid;
+    Thy boundless spirit, Baldur, shall be pinched
+    Within the gnarled limbs of the stunted dwarf,
+    Twisted with pain, as now thy brother is;
+    Thou, envious wolf, jealous of Baldur’s joys!
+    Thy feverish being shall invest the power
+    And glorious stature of the hunter. So
+    Shalt thou have scope and license measureless
+    To woo the heart of Freyja. So shall ye,
+    Lovers, make proof of your conjoinèd love
+    And trothèd meekness, whether these be strong
+    To tame this wolf, and from his blinding lusts
+    Evolve a nobler consciousness, or weak
+    To let themselves be blasted, and the world
+    Itself eclipsed in universal chaos.
+
+                          FREYJA
+    If we be strong?
+
+                           ODIN
+                     The wolf-god shall be tamed.
+
+                          FENRIS
+                 [_In rage, half rising._]
+    Oathless am I unto Odin ever!
+                 [_He sinks back, faint._]
+
+                          BALDUR
+                       [_To Odin._]
+    And tamed?
+
+                           ODIN
+               He shall go free.
+
+                          FREYJA
+                             Even in such freedom
+    As ours?
+
+                           ODIN
+             O Freyja, larger liberty—
+    The mightier peace which mortals only know—
+    Even death.
+
+                          FENRIS
+    Freedom! Anarch—anarch! Freedom!
+
+                           LOKI
+              Hail, Odin; smoketh thine altar afar.
+    Burneth to thee the cloven bullock’s heart;
+    The sacrificers watch and wait thy sign.
+
+                           ODIN
+    Let them behold it! Thou and Thor, stretch out
+    Your wings in storm, and ravish up their souls
+    With night and death.
+                  [_To Baldur and Freyja._]
+                          Come, you my children! Now
+    Shall our immortal fires be mixed with clay
+    In the great crucible, and these our spirits
+    No more shall know themselves for gods, until
+    The shadowy Master shows the great solution.
+
+    [_In faint lightning and thunder, Loki and Thor disappear.
+        Odin ascends the crater, followed by Baldur and Freyja.
+        Climbing together the steep slope, these two look
+        backward upon the prostrate wolf who, following them
+        with his eyes, moves not until they reach the summit.
+        There, against a sky of sunlit storm, Freyja pauses and
+        stretches forth her arm to him._]
+
+                          FREYJA
+    Dear wolf!
+
+                          FENRIS
+                   [_Starts up madly._]
+    Freyja! death—freedom! freedom! death!—Now—now!
+
+    [_As Freyja and the gods pass from sight beyond the cliffs,
+        Fenris gnaws at his chain in inarticulate fury._]
+
+
+
+
+ACT I
+
+
+SCENE I: Outside a tribal temple.
+
+    _The gable beams are low; only the entrance end of the
+        building, set at an angle, on the left, is visible. In
+        the distance rises a snow-capped volcano, its slopes—in
+        the nearer background—pied with the young leaves and
+        blossoms of early spring; against these, jutting from
+        behind the temple, a gallows-tree. On the right, at
+        back, a solitary pine of great age sways solemn boughs
+        over half the scene, the centre of which is occupied by
+        a vast monolith, or boulder, tapering upward to a jagged
+        end. The face of this stone, graved deeply with runes,
+        is (on its lower half) dark carmine and smooth as ivory;
+        from behind it blue smoke is rising; before it stands an
+        altar of stone, on which is set a silver bowl._
+
+    _In front of this altar stands_ INGIMUND, _the
+        temple priest, clad in a sleeveless leathern smock to
+        the knees; his arms are reddened with sacrifice; from
+        his throat—beneath his long, grey hair—hangs an image
+        of Odin; on his right wrist a ring of plain gold; in
+        his left hand a spear. On either side of him an altar
+        priest holds a bunch of sprinkling twigs. From the
+        temple four other priests are bearing a slaughtered
+        bullock to the fire behind the rune-stone. Massed in
+        the right foreground are_ EGIL _and his men;
+        on the left_, ARFI _and his men. Egil, noble
+        of stature, stands moodily filing the grooves of a
+        crossbow; Arfi, bent and dwarfed, sits with his ear close
+        to a harp, which he thrums softly._
+
+    _From the right background, beneath the pine, enters,
+        singing, a procession of the folk, escorting an ark
+        on wheels, drawn by oxen, whose flanks are wreathed
+        with flowers, and whose horns are adorned with gold.
+        Following the ark, which passes on into the temple,
+        horses and sheep are led to the sacrifice. These, as
+        they pass before him, Ingimund marks with the sign of a
+        spear, while the altar priests sprinkle them with blood
+        from the silver bowl._
+
+    _At the entrance of the temple stand_ THORDIS _and
+        her_ VIRGINS, _who take from the beasts their
+        garlands and hang them on the doors and outer walls.
+        The men and women of the throng, chanting to a barbaric
+        cadence, lift up their arms and faces to the sky._
+
+                         THE FOLK
+           Wanderer of earth and air,
+           Walker on the giant flood,
+             Odin! Asa Odin!
+               Pilgrim of the storm!
+
+           Lyer in the Sybil’s lair,
+           Reader of the runes of blood,
+           Thou who hearkenest all prayer—
+               World-spirit and worm,
+             Odin! Asa Odin!
+             Hear us, Allfather!
+
+                 [_Distant thunder._]
+
+                          FRIDA
+    Thordis, he hears.
+
+                        THE VIRGINS
+                         He hears!
+
+                         THE FOLK
+                               He hears!
+
+                           YORUL
+                        [_To Rolf._]
+                                       Behold
+    The dwarf, where he sits shrivelled by his harp.
+    Ho, Arfi! hear’st thou Odin? Hast invited
+    The trolls, thy cousins, to the bridal?
+
+                          WULDOR
+                                    Silence!
+    He listens to the stars behind the storm.
+
+                           YORUL
+    The tree-frogs, Wuldor. He, thy master, is
+    Their father.
+
+                          WULDOR
+             So thy master is their uncle.
+
+                           YORUL
+    My master shall be bridegroom, never fear!
+    Hath Arfi slain his boar?
+
+                          WULDOR
+                              Hath Egil sung
+    The slaying of his boar?
+
+                           YORUL
+                             Hath Arfi leashed
+    The wild stag by the horns and led him home?
+
+                          WULDOR
+    Hath Egil read the runes on Odin’s stone?
+
+                           YORUL
+    Weaklings and women ye!
+
+                          WULDOR
+                            Thou liest, Yorul.
+
+                           YORUL
+                    [_Strikes Wuldor._]
+
+    Ho, Egil, here!
+
+                          WULDOR
+                     [_Retaliating._]
+                         Ho, Arfi!
+
+    [_The followers, from either side, spring forward and fight
+        fiercely. Ingimund strikes among them with his spear._]
+
+                         INGIMUND
+                              Fools of anger!
+    This ground is Odin’s; he alone may judge
+    Which of your masters shall betroth his priestess.
+    Back! and await his sign.—Come, Thordis.
+
+                           FRIDA
+           [_Parting with Thordis by the temple._]
+                                   Joy
+    And love be thine, dear lady.
+
+    [_Leaving her maidens, Thordis comes quietly from the temple
+        and stands before the rune-stone and Ingimund, who, with
+        his spear, beckons also Egil and Arfi. As these join
+        Thordis, the altar priests, with a heavy chain of gold,
+        enclose the four in a circular space, while the folk
+        chant as before._]
+
+                          THE FOLK
+             Save us, Lord, from lovers’ hate,
+             Shelter us from brothers’ feud!
+               Odin! Asa Odin!
+                 Only thou art wise.
+
+             Choose unto this maid a mate
+             Hallowed by thy sanctitude,
+             Send thine omen while we wait,
+                 Making sacrifice.
+               Odin! Asa Odin!
+               Save us, Allfather!
+
+    [_Thunder; storm gathers and the scene grows darker, as
+        bigger clouds of smoke roll upward from behind the
+        rune-stone._]
+
+                         INGIMUND
+    [_Removing the gold circlet from his wrist._]
+                                              Here,
+    Your right hands here—all three—on Odin’s ring.
+                   [_To Egil, then Arfi._]
+    Press deeper in the sand thy foot, now thine.
+                   [_To the Priests._]
+    Fill up the footprints with the sacred blood.
+    Brother in brother’s footstep, hark your oath—
+    Your oath to abide by Asa Odin’s will.
+
+    [_As Egil and Arfi grasp the ring, lightning begins to play
+        over the scene, and thunder deepens the voices of the
+        people._]
+
+                         THE FOLK
+                  Odin! Odin! Asa Odin!
+                  Send upon thy folk a portent!
+
+                         INGIMUND
+  [_Lifting his face and spear toward the sky, intones._]
+    By thy runes forever writ
+    On Allwaker’s ear and Allswift’s hoof,
+    On Sleipni’s teeth and the sledge-bands,
+    On the Wolf’s claw and the eagle’s beak,
+    On the bloody wings and the bridge’s end!—
+
+                         THE FOLK
+                  Odin! Odin! Asa Odin!
+                  Send upon thy folk a portent!
+
+                         INGIMUND
+    By thy runes forever writ
+    On Brage’s tongue and the bear’s paw,
+    On the midwife’s palm and the amber god,
+    On Norna’s nail and the owl’s neb,
+    On wine and wort and the Sibyl’s seat!—
+
+                         THE FOLK
+                  Odin! Odin! Asa Odin!
+                  Send thy portent, O Allfather!
+
+                          FRIDA
+    Look! look! himself doth come.
+
+                         THE FOLK
+                               Fly! fly! Oh, fly!
+
+                          FRIDA
+    Himself doth come, and with him all the gods!
+
+    [_Amid supernatural darkness and thunder-peal, Ingimund,
+        Thordis, Egil, and Arfi are struck to the earth, and
+        all the people flee, except Yorul and Frida, who crouch
+        beside the temple._]
+
+                         THE FOLK
+                   [_In the distance._]
+    Bow down! bow down!
+         [_Pause; the passing of the storm; silence._]
+
+                          FRIDA
+                       [_Rising._]
+                        Yorul!—You do not speak.
+    Yorul!
+
+                           YORUL
+           O Frida, hush!
+
+                          FRIDA
+                          And did you see them?
+    Four were they all together, and they passed
+    Like fire, and four returned, in robes of flame,
+    But paler.
+
+                           YORUL
+               May be so; I saw them not.
+
+                          FRIDA
+    Two others stood on Odin’s stone, and one
+    Laughed loud, and whirled a whip of blazing brass,
+    And one thrust through his beard a smoking hammer.
+
+                           YORUL
+    May be; may be. What did you say? Speak not!
+                     [_Embracing her._]
+    O heart of mine, thou beatest yet. We live.
+    The sun—how still it is! What’s that?
+
+                           FRIDA
+                                   A bird
+    Singing under the temple’s eaves.
+
+                           YORUL
+                                      And all
+    Are fled. What be those four that lie so still?
+
+            [_Together they approach the bodies._]
+
+                           FRIDA
+    Alas! O lady dear!
+
+                           YORUL
+                       Dead! they are dead.
+    Egil, my master! Odin’s voice hath slain him.
+    Cursed be Odin!
+
+                           FRIDA
+                    Yorul—take them back,
+    Those words! Their sacrilege shall work us woe.
+
+                           YORUL
+    What matter? He is dead.
+
+                           FRIDA
+                             Oh, do not think it!
+    Perhaps they sleep. Look how their brows still wear
+    High thoughts. I think they dream. Go! fetch a leech.
+
+                           YORUL
+    A leech for death?
+
+                           FRIDA
+                      Go quickly, Yorul!
+
+                           YORUL
+                                   Well!
+                      [_Going out._]
+    A leech here for the dead! A leech, ho!
+                                     [_Exit._]
+
+                           FRIDA
+    [_Alone with the four bodies, stands before
+              the rune-stone._]
+                                       Odin!
+    Have pity on the dead; let them awake!
+       [_Slowly the bodies rise and look upon her;
+                  she crouches before them._]
+    Ah me! Your eyes! They burn. O turn away
+    Your bright eternal eyes!
+
+       [_She falls unconscious. Egil, who has risen
+               with the gold altar chain wound about him,
+               gnaws it._]
+
+                           EGIL
+                           Death! Freedom! freedom!
+
+    [_Enter Yorul and a_ LEECH, _followed by the folk_.]
+
+                         THE LEECH
+    Who calls for leechcraft here?
+
+                           YORUL
+                   [_Stands bewildered._]
+                                   A miracle!
+
+                          THORDIS
+                   [_Bends over Frida._]
+    The child is stricken.
+
+                           ARFI
+                         Let me lift her, Thordis.
+
+                           YORUL
+    A miracle! O Frida, speak to me!
+
+                         THE LEECH
+                      [_To the folk._]
+    Stand off! Give air!
+
+                          WULDOR
+                     [_To the folk._]
+                     Hath Yorul then deceived us?
+
+                           ROLF
+    Behold, they live!
+
+                           FRIDA
+                    [_Rising, faintly._]
+                   Thanks; lead me to the temple.
+
+                          INGIMUND
+    What hath befallen?
+
+                           WULDOR
+                        Hail, Ingimund! The portent
+    Of Odin hath befallen.
+
+                          INGIMUND
+                          Saw ye, or what?
+
+        [_Wuldor and the folk whisper among themselves.
+            Yorul supports Frida toward the temple._]
+
+                           YORUL
+    But how? What chanced?
+
+                            FRIDA
+                           Their eyes! their burning eyes!
+    Oh, I have seen their souls: they are not theirs.
+    Four bright ones came, four pale ones went away.
+
+                            YORUL
+    Clean reft of wit!
+
+                            FRIDA
+                       Oh, shut me in the dark!
+
+        [_Taking Frida from Yorul, the temple virgins lead
+            her into the temple._]
+
+                          INGIMUND
+                       [_To Wuldor._]
+    Saw ye, I say, or what?
+
+                           WULDOR
+                           Ask Yorul, father.
+
+                          INGIMUND
+    Speak thou! What hath befallen?
+
+                            YORUL
+             [_Returning dazed from the temple._]
+                                    Odin is wise;
+    Ye that were dead are risen from the dead,
+    And Frida, my betrothèd, is reft of reason.—
+    She said it would be, for I cursed him.—Egil!
+    Master and lord, welcome to life!
+
+        [_Egil, who, with fixed gaze, has been eyeing Thordis,
+            starts wildly, paces back and forth, dragging the altar
+            chain as he moves._]
+
+                            EGIL
+                                      A verdict!
+    A verdict, priest and earls! Thordis is mine.
+
+                         EGIL’S MEN
+    Thordis for Egil!
+
+                         ARFI’S MEN
+                      Thordis for Arfi!
+
+                          INGIMUND
+                                        Peace!
+    Heaven’s omen still is dark, and Odin’s sign
+    Ambiguous. Not one, but four of us,
+    His hand hath stricken. Wherefore thus I read
+    His riddle: Thordis shall herself decide.
+
+                           THORDIS
+    Father, not I!
+
+                          INGIMUND
+                   This ancient feud must end.
+    These two have sworn to abide by Odin’s will;
+    His will it is that thou make choice of them.
+    Hearken their pleas, and choose.
+
+                           THORDIS
+                               To one must I
+    Give pain?
+
+                          INGIMUND
+               To one give joy. Speak, Arfi.
+
+                            ARFI
+                                         Lady,
+    That those who love are blind I pray be so
+    That, loving, so you may behold me not—
+    What thing I seem, but only hear my voice—
+    What truth I am. Thordis, even now I dreamed
+    A dream more high and awful than the clouds
+    And breathless peaks afire of poesie:
+    We stood together on the morning’s brink;
+    Crater and frozen cliff and snowy scar
+    Hung, avalanche on avalanche, below,
+    Below them still,—the world! You spoke to me;
+    Sweeter than measures of imagined song
+    Before the harp is struck, your voice! “Listen!” you said;
+    And echoing from scar and crater rose
+    The clanging of a chain. You clung to me;
+    You clung to me and spoke not.—I have done.
+
+                          INGIMUND
+    Egil!
+
+      [_Springing forward, Egil seizes Thordis’s hand,
+                    which he raises to his lips._]
+
+                            EGIL
+            I love—I love thee!
+
+      [_He bites her hand. Screaming, she draws away from
+                   him and clings to the dwarf._]
+
+                           THORDIS
+                               Arfi!
+
+                             ARFI
+                       [_Facing Egil._]
+                                   Brother!
+
+                            WULDOR
+    Blood! He hath bit her hand. Ho, sacrilege!
+
+                             EGIL
+    The maid is mine.
+
+                             ARFI
+                      The maid is Odin’s.
+
+                             ROLF
+         [_Seizing Yorul’s arm, points at Egil._]
+                                          See!
+    His eyes grow small and blaze!
+
+                            YORUL
+                                 He is possessed;
+    Some god afflicts him.
+
+    [_With a gesture of fury, Egil rushes upon Arfi._]
+
+                            EGIL
+                            Mine!
+
+                          INGIMUND
+                        [_Stays him._]
+                                 The maid is Arfi’s,
+    For she herself hath chosen him.
+
+                            ARFI
+                        [_Quietly._]
+                                A clout,
+    To stanch the blood.
+
+                          WULDOR
+         [_As Arfi binds her hand, gazes on Thordis,
+                     whose eyes have closed._]
+                         O fair beyond this world!
+
+                           EGIL
+    [_Clutching the air, in passion for coherence._]
+    A rape! a rape! Thordis for Egil!
+
+                           YORUL
+                        [_Drawing._]
+                                Thordis
+    For Egil, here!
+
+                         ARFI’S MEN
+                      Thordis for Arfi!
+
+                         EGIL’S MEN
+                                  Egil!
+
+                          INGIMUND
+    Beware! Put back your weapons all, on pain
+    Of Odin’s wrath.
+
+                          THE FOLK
+                         [_Murmur._]
+                  Remember Odin’s wrath.
+
+                            EGIL
+    Egil recks not for Odin’s wrath nor will.
+    Who fights for Thordis?
+
+                          INGIMUND
+                          This is blasphemy.
+
+                            EGIL
+    Who fights with Egil for the maiden?
+
+                            YORUL
+                                  I,
+    And all of us.
+
+                         EGIL’S MEN
+                   Till death.
+
+                          INGIMUND
+                               Enough, mine earls!
+    The patience of the lord of peace hath end.
+    Egil, thy words and deed have violated
+    The sacred place of Odin. Thou art banned!
+    The lord hath put thee from his high place. Go!
+    I cast thee forth, and all who follow thee.
+
+                          THE FOLK
+                      [_Falling back._]
+    Accurst! accurst!
+
+                            EGIL
+              [_Stands alone in a great circle._]
+                      Behold they cast him forth!
+    Egil is banned! Who fights with Egil now?
+
+                           YORUL
+    I, master!
+
+                       ONE OF EGIL’S MEN
+               Fly! he is accurst.
+
+        [_The men hesitate; then all—except twelve, including
+             Yorul, who step into the circle—depart fearfully._]
+
+                          THE TWELVE
+                                   Hail, Egil!
+
+         [_The folk cry out; some go from the scene, others
+                into the temple._]
+
+                             EGIL
+          [_Seizing up with both hands the silver bowl._]
+    Hail, liegemen! Twelve and one, we are enough
+    To vow ourselves to vengeance ’gainst the world.
+    A pledge, here! Ho, a pledge to groom and bride!
+    Drink pledge with me, in Odin’s altar blood.
+    Thordis and vengeance! Hail!
+
+                          THE TWELVE
+                              Thordis and vengeance!
+
+        [_Egil drinks from the silver bowl._]
+
+  SCENE II: The interior of Egil’s lodge in the
+                     forest; toward twilight.
+
+    _The room is roughly built of logs, long cross-beams
+        overhead. From these (in the right corner, back) hang
+        suspended the bodies and skins of antelope, bear, and
+        wild game; and beneath these—piled upon a bench against
+        the wall—a heap of furs and hides. Centre, back, a
+        door. Left, in the earthen floor, a hearth with ashes;
+        above it, a hole in the roof. Beyond this hearth, left,
+        sitting at the open window_, FRIDA, _alone. She
+        looks out dreamily toward the forest, from which horns
+        echo and answer. Suddenly she starts up, gazes intently,
+        gives a low cry, and, dodging down as she passes the
+        window, springs across to the heap of hides, among which
+        she conceals herself. After a pause, the door opens_;
+        EGIL _enters, panting—evidently pursued. His
+        brow is bleeding, and he limps. Turning to bar the
+        door, he lets fall a bloodied wolf’s skin. Immediately
+        he snatches it up caressingly; gazes around, listens
+        enraged to the horns, limps swiftly to the hearth,
+        hesitates; then, as a sudden horn-blast resounds close
+        by, falls on his knees, digs ferociously in the ashes
+        with his two hands like an animal, thrusts the wolf’s
+        skin in the cavity, and covers it over with the ashes,
+        carefully replacing the charred brands on top. Swiftly,
+        then, binding up his bleeding brow and thigh, he unbars
+        the door, seizes a whip from a corner, and springs
+        stealthily out of the window. At the same moment, horses
+        are heard to gallop up to the lodge; the door bursts
+        open_; YORUL _and_ ROLF _appear on the
+        sill._
+
+                           YORUL
+    He came this way. Look here, Rolf, in the sand—
+    And here: are not these paw-prints?
+
+                           ROLF
+                                  May be so.
+    I saw him last back yonder in the forest.
+
+                           YORUL
+    I saw him slinking hither across the open.
+    Look, here again; here’s blood.
+
+                           ROLF
+                             What! was he wounded?
+
+                           YORUL
+    Did not you see?
+
+                           ROLF
+                     You know I did not; tell me.
+
+                           YORUL
+    Twice; once across the eye, once in the shank.
+    ’Twas Ingimund struck both wounds.
+
+                           ROLF
+                                Ingimund!
+
+                           YORUL
+    Yes, when we left you, Egil rode ahead,
+    I and the others after. We had ridden
+    A half-mile, when I heard our master shout:
+    “Here comes our brother with his bride ahunting.”
+    And sure, there burst into our narrow glen
+    Horse, hound, and horn, the whole bright cavalcade;
+    And Thordis rode ahead, and Arfi next,
+    Last, Ingimund. We reined our horses back—
+
+                           ROLF
+    Not to pollute the lady with the sight
+    Of your accursed faces, eh?
+
+                           YORUL
+                              Say rather
+    To keep our scanty numbers hid.
+
+                           ROLF
+                               Well—well?
+
+                           YORUL
+    Well, I had hardly reined back in the wood
+    And Thordis passed me by—Man, it was awful!
+    Under the very hoofs of the dwarf’s horse—
+    Out of the earth, it seemed—there sprang a wolf
+    And bit the stallion’s loin. The horse rolled over—
+    A wolf—a giant wolf!
+
+                           ROLF
+                           What then?
+
+                           YORUL
+                                     I say
+    It stood as high as that, Rolf, yet I swear
+    If it were not a wolf, yet what—
+
+                           ROLF
+                               What happened?
+
+                           YORUL
+    There rang a great shout and the riders all
+    Leapt to the ground where, in the midst of them,
+    Tangled together with the kicking steed,
+    Rolled the huge wolf and Arfi; him the beast
+    Held by the gorge between his grinning jaws,
+    Throttling him like a whelp. But Ingimund—
+
+                           ROLF
+    Hel have him! Did he save the dwarf?
+
+                           YORUL
+                                     He dragged
+    The wolf away, and struck him with his spear
+    Twice, as I told you. But the beast escaped.
+
+                           ROLF
+    And Arfi lives?
+
+                           YORUL
+                    I know not. I made after
+    The wolf, and met you as I tracked him here.
+
+                           ROLF
+    But what said Egil?
+
+                           YORUL
+                      I was too amazed
+    To look for him.
+
+                           ROLF
+                   There winds his horn in the wood,
+    And yonder he comes riding with the others.
+    Come; we’ll go meet them.
+                                      [_Exit._]
+
+    [_As Yorul is following Rolf, Frida steps forward._]
+
+                           FRIDA
+                       [_Speaks low._]
+    Yorul!
+
+                           YORUL
+         _Her_ voice! Frida! Frida!
+
+                           FRIDA
+                               Keep me!
+
+                           YORUL
+    Stand farther off. O girl, what brings you here?
+    How found you out this solitary place?
+
+                           FRIDA
+    I left my mistress’ side at dawn, and searched
+    All day the forest.
+
+                          YORUL
+                        Little Frida, thou!
+
+                           FRIDA
+    Come with me!
+
+                           YORUL
+                  Stand away! You have forgot
+    I am accurst. This place is Egil’s lodge,
+    And all who dwell here banned and castaway.
+
+                           FRIDA
+    Where you are must I fear to be?
+
+                           YORUL
+                                  Yes, Frida,
+    For Ingimund has cursed me with my master.
+
+                           FRIDA
+    Leave him.
+
+                           YORUL
+                       Whom?
+
+                           FRIDA
+                     Leave him, Yorul.
+
+                           YORUL
+                               Leave whom, child?
+
+                           FRIDA
+    Egil, your master.
+
+                           YORUL
+                     [_In amazement._]
+                       Frida!
+
+                           FRIDA
+                              Hush!
+                [_She goes to the hearth._]
+
+                           YORUL
+                       [_In scorn._]
+                                  Desert
+    My lord! His liegeman, I a traitor!
+
+                           FRIDA
+                                Look.
+    [_She brushes back the ashes, revealing the beast’s head._]
+
+                           YORUL
+    The wolf! By heaven, dead! What—_you_ killed him?
+
+                           FRIDA
+                                 No.
+
+                           YORUL
+    And flayed, the very brute! Here are the marks
+    Of Ingimund, his spear. Saw you the beast
+    Alive?
+
+                           FRIDA
+                Yes.
+
+                           YORUL
+                       Here?
+
+                           FRIDA
+                      I watched it limping here,
+    Wounded, from out the forest.
+
+                           YORUL
+                              Ha! I said so.
+    Here to the very door-sill?
+
+                           FRIDA
+                             Yes; it pushed
+    The door ajar.
+
+                           YORUL
+                     But—
+
+                           FRIDA
+                         Egil entered.
+
+                           YORUL
+                                 Egil!
+
+                           FRIDA
+    His brow was bleeding and he limped. He buried
+    That thing beneath the ashes, and sprang forth
+    Out at the window.
+
+                           YORUL
+                        Buried this?
+
+                           FRIDA
+                                    As dogs
+    Bury their secrets, claw and nozzle.—Yorul!
+
+                           YORUL
+    You _saw_?
+
+                           FRIDA
+               I saw. O Yorul, ’tis a werewolf.
+
+                           YORUL
+            [_Drops the hide and steps back._]
+    Ah! do not name it!
+
+                           FRIDA
+                        Leave him. Come away!
+
+                           YORUL
+    Bleeding—his brow, you said?
+
+                           FRIDA
+                                Yes; come away!
+
+                           YORUL
+    So be it.
+
+                           FRIDA
+              Gracious Odin! he will come.
+
+                           YORUL
+    Since that wild day he bit your mistress’ hand
+    It hath misgiven me the gods torment him.
+    Once, for seven days, ceaseless he paced this hall,
+    Spoke not, nor ate, but ground and ground his teeth;
+    And in the night, once, when I watched him sleeping,
+    His eyelids lay rolled back and filled with fire.
+
+                           FRIDA
+    That day the storm burst over Odin’s stone
+    And I beheld those mighty four in flame—
+    Oh, since then, Yorul, they have changed, my mistress
+    Even as your master, save that she has grown
+    Lovelier than herself, and seems to bear
+    About with her the loadstone of desire,
+    For the poor hinds and churls that wait upon her
+    Serve her with souls enamoured. If I thought
+    You would believe my vision, I could tell—
+    But come, Yorul. Yorul! you will not come?
+
+                           YORUL
+    Never! Stop, Frida; do not name the thing
+    He is. It matters not to me; for me
+    He is my lord, my master; that is all.
+
+                           FRIDA
+    But if—
+
+                           YORUL
+             If he were that eternal beast
+    Whom Odin chains until the dawn of doom,
+    Fenris, the wolf—
+
+                           FRIDA
+                       No, say not that!
+
+                           YORUL
+                                         I say
+    Still it should matter not; I am his liegeman,
+    His vassal, and his bondslave. I will serve him.
+
+    [_Enter, with his followers, Egil, cracking his whip._]
+
+                           EGIL
+    The wolf! Where is your wolf?
+
+                           ROLF
+                              We tracked him here.
+
+                           EGIL
+    Lies! lies! He lurks yet in the forest.
+
+                           ERIC
+    [_Pointing at Yorul, who holds up the skin._]
+                                     Look!
+
+                          THE MEN
+    The wolf!
+
+                           EGIL
+    [_Leaping upon Yorul, flings him to the ground._]
+              Traitor!
+
+                           YORUL
+                       Hold, master—
+
+                           FRIDA
+                    [_Coming forward._]
+                                      Save him!
+
+                           ROLF
+                                  Thou!
+             Thou, maiden, here?
+
+                           FRIDA
+                        Oh, help him!
+
+                           ERIC
+    [_With the others’ help, separates the two._]
+                                      Egil! off!
+
+                           EGIL
+    A ferret, ho! a ferret, earls; hath scent
+    And sight and hearing—what, for rats? No, no,
+    For wolves!
+
+                           ROLF
+                  [_Aside to Eric._]
+              The madness!
+
+                           YORUL
+                             Master, ’tis the wolf.
+    I killed him.
+
+                           EGIL
+                    Killed him? Thou?
+                      [_Craftily._]
+                                 What wolf?
+
+                           YORUL
+                                   The beast
+    That bit the dwarf.
+
+                           EGIL
+                       Dead; so ’tis dead. Let see!
+    [_Taking the pelt from Yorul, he drops it on the hearth._]
+    It should, methinks, be buried too. _Thy_ kill?
+
+                           YORUL
+    Mine, Egil.
+
+                           EGIL
+    [_With his foot, covering the pelt with the ashes._]
+                Killed and flayed. Huzza, mine earls,
+    For Yorul and his kill.
+
+                          THE MEN
+                   [_Gather round Yorul._]
+                           Huzza!
+
+                           EGIL
+                               ’Tis buried.
+                        [_Aside._]
+    He knows, he knows; I will avenge me.
+                 [_Looks keenly at Rolf._]
+                                          Well,
+    What art thou gazing on?
+
+                           ROLF
+                           On nothing.
+
+                           EGIL
+                                      Liest,
+    Liest; art gazing on my brow. What, what?
+    ’Tis bandaged, ah! What then? What then, I say?
+
+                           ERIC
+    Why, he is wounded.
+
+                           EGIL
+    Traitors! traitors all!
+    Aha, by Loki, but you lie. I fell—
+    You lie! My horse was diked. I fell and gashed me,
+    My brow, my thigh. Why not my brow and thigh?
+    May not a huntsman fall from ’s saddle? Liars!
+    I limp, but not for that. I _will_ limp!
+                      [_Suddenly changing._]
+                                             Hark!
+                      [_He springs to the window._]
+
+                           YORUL
+    What dost thou hear?
+
+                           EGIL
+                         They smell the blood. They come
+    To dig it up. Their nozzles scour the gorse.
+    Yorul! Yorul!
+
+                           YORUL
+                 [_To whom Egil clings._]
+              ’Tis nothing.
+
+                           EGIL
+                                They have found
+    The scent. You cannot make them lose it, Yorul.
+    You loop and loop for miles, plunge in the lake,
+    Swim over, double through the thickets, spring
+    All-feet from rock to rock in the ravine,
+    Crouch in the fern and listen: still you hear them
+    Belling behind you, all their big chests panting,
+    Their red tongues lolled, the great hot breathing,—bloodhounds!
+    Bloodhounds!
+
+                           ROLF
+                     [_At the window._]
+                 By Odin, see, yonder the dogs
+    Of Ingimund; he hath them in the leash;
+    Behind him, on a litter, they are bringing
+    Arfi, the dwarf.
+
+                           EGIL
+                     Yorul! Keep back the hounds!
+    Mercy! Thou art no kin of theirs. They have
+    No feud of blood with thee. Keep back the hounds!
+    Mercy!
+
+                           ERIC
+                     [_Aside to men._]
+              Still madder!
+
+                           ROLF
+                  They are twoscore men,
+    And we a handful; shall we fight?
+
+                           EGIL
+                                      Fight, madmen?
+    Have ye not heard the hounds? Keep back the hounds.
+    Go forth and bind their leashes to the trees.
+    Bind them, and guard them, every slave of you!
+    Go! Go!
+
+                           ROLF
+            What! fear their dogs?
+
+                           ERIC
+                               Yorul, his eyes—
+           They burn!
+
+                           YORUL
+               Be patient, master!
+
+                           EGIL
+                                   Treachery!
+    You’ve lured ’em on. They come to dig it out;
+    They smell the wounds. Ye have betrayed me.
+
+                           YORUL
+                                      Men,
+    Come forth and let us bind the hounds.
+
+                           EGIL
+                   [_Swinging his whip._]
+                                     Slaves! cowards!
+    Traitors! the lash shall teach you.
+                     [_Striking Rolf._]
+                                     Bind the hounds!
+
+                           ROLF
+    This goes too far.
+
+                           YORUL
+                       [_Imploring._]
+                    Come!
+
+                           EGIL
+                             Mercy! Ah! their fangs!
+    Their fangs! Devils, go forth and bind the hounds.
+          [_Follows the men, lashing them._]
+
+                           ERIC
+    By Loki!
+
+                           YORUL
+                         [_Aside._]
+             Humour him.
+
+    [_The men go forth, whipped wildly by_ EGIL,
+         _who sinks exhausted by the closed door_.]
+
+                           EGIL
+                         Keep back the hounds—
+            Their fangs!
+
+                           YORUL
+                        [_Outside._]
+               Fear nothing; we will bind them.
+
+                           FRIDA
+                   [_Starts for the door._]
+                                            Yorul!
+
+    [EGIL, _rolling in her way, gazes at her,
+        and rises, panting; she draws back_.]
+
+                           EGIL
+    Thou art the maid of Yorul.
+
+                           FRIDA
+                             I am his.
+
+                           EGIL
+    Who hid the wolf—he knows.
+
+                           FRIDA
+                              He knows.
+
+                           EGIL
+                               His maiden!
+    Shalt make a fair revenge.
+
+                           FRIDA
+                             Ah! Save me, Yorul!
+                      [_She faints._]
+
+                           EGIL
+    Yorul, a dear revenge!
+    [_Lifting her in his arms, he bears her off, left._]
+                           A lair! a lair!
+
+    [_A pause; sunset glows through the window; the outer
+        door is partly opened by Rolf, who calls in._]
+
+                           ROLF
+    O Egil! Ingimund demands to enter
+    And rest here for the night. Thy brother’s wound
+    Grows worse; they doubt his life. Shall we resist them,
+    Or welcome? They are armed.—Egil!—Not here?
+
+    [_Exit, closing the door. Another pause; the room
+        grows dimmer; Egil slowly reënters, left._]
+
+                           EGIL
+    Now will I sleep.—The time is strangely sweet,
+    Blank, and untroubled. Soon it will be starlight.
+    My limbs are filled with peace, mine ears with sounds
+    Of brooks and breezy leafage murmurous,
+    Mine eyes with slumber. Well, I will lie down
+    And sleep.
+
+    [_As Egil goes to the hearth, enter_ INGIMUND,
+        THORDIS, WULDOR, _and a number
+        of Arfi’s men, carrying a litter, on which lies_
+        ARFI; _these accompanied by Yorul, Rolf, Eric,
+        and Egil’s men_.]
+
+                         INGIMUND
+               Slow; bear him softly, Wuldor. Let
+    The others stay without, and place our men
+    Most carefully on guard. For this one night,
+    Yorul, thy master’s bann shall be suspended.
+    The need is great.
+
+                          THORDIS
+                     [_By the litter._]
+                    Father, he hath grown paler.
+
+                         INGIMUND
+    Here set him down.
+
+                           EGIL
+                   [_Gazing at Thordis._]
+             Dreaming!
+
+                          THORDIS
+                             Gently! his side.
+
+                           WULDOR
+    Lady, what more to do?
+
+                         ARFI’S MEN
+    [_Some kneel, some kiss her robe; all give to her their
+        eyes and hearts unconsciously._]
+                           What more?
+
+                          THORDIS
+                                 Bring water.
+
+                           YORUL
+                         [_Aside._]
+    Master, the hounds are tethered. Where is Frida?
+
+                           EGIL
+    Dreaming! still dreaming!
+
+                           YORUL
+                              Frida?
+
+                           EGIL
+                               Wake me not.
+
+                          THORDIS
+    Arfi! O gentle earl, look up! Let not
+    Your ears be as the turf to our great sorrow.
+    Arfi! I love you; live!
+
+                           YORUL
+                        [_To Rolf._]
+                            Hast thou seen Frida?
+
+                           ROLF
+    No.
+    [_Exit Yorul, left; Egil approaches Arfi’s litter._]
+
+                           EGIL
+           Will he die?
+
+                          INGIMUND
+                     The virus of the wolf
+    Corrupts his blood; yet he may live.
+
+                           EGIL
+                               May live.
+
+                           WULDOR
+    O God! I could take heart to bear this woe
+    But that the damnèd beast that bit my master
+    Still breathes.
+
+                          INGIMUND
+                    I wounded him.
+
+                          WULDOR
+                               Yet he escaped us.
+
+                           ROLF
+    You, Wuldor, but not us. The wolf is dead;
+    Behold his skin!
+            [_Reënter Yorul. He staggers forward._]
+
+                          INGIMUND
+                     Who killed him?
+
+                           ERIC
+                               Egil’s man
+        Yorul.
+
+                          INGIMUND
+           Hail, Yorul! This deed shall atone
+    For much of thy defiance and thy master’s.
+    Well done!
+
+                           YORUL
+                        [_Wildly._]
+               A lie! a lie! the wolf still lives.
+
+                            ALL
+             Lives?
+
+                           YORUL
+             There!
+
+                           EGIL
+                    [_Crouching back._]
+                Ai! anarch!
+
+                           YORUL
+       [_Grappling Egil, tears off his bandages._]
+                              Look! Look, Ingimund!
+    The wounds: you struck them with your hunting-spear.
+
+                          INGIMUND
+
+    Forehead and thigh!
+
+                           YORUL
+                        He sprang on Arfi’s horse,
+    And bit his brother’s throat—his murderer.
+    There lies his changeling skin. He buried it
+    Here in the ashes.
+
+                          THE MEN
+                      [_Falling away._]
+                     Werewolf! Werewolf!
+
+                          INGIMUND
+                                      Earl,
+    Thou art accused of sin unnameable.
+    Speak: art thou guilty?
+
+                           EGIL
+          [_Glares about him in fear and rage._]
+                           Ai! Ai! anarch!
+
+                          INGIMUND
+                                   Demon!
+
+                           YORUL
+    Ah, Frida! Master—Frida!
+
+                           ROLF
+                            What of her?
+          Not dead?
+
+                           YORUL
+              No, no; would God she were, and I!
+    Frida!
+                                   [_Exit, left._]
+
+                          INGIMUND
+           Destroy the wolf.
+
+                          THORDIS
+    [_To Wuldor, who is about to attack Egil with a spear._]
+                           Stop, earl! Your master;
+        He has heard all.
+
+                           ARFI
+      [_Raises his body painfully on the litter._]
+                      My brother—Egil—spare him.
+
+                          WULDOR
+    But ’tis a werewolf!
+
+                          INGIMUND
+                         He has sought your life.
+
+                           ARFI
+    The life he sought to take I give to him.
+    My strength is little; if you love me, spare him.
+
+                          WULDOR
+    ’Tis madness!
+
+                          THORDIS
+                  Nay, ’tis mercy, but to you
+    Reason is vengeance. Father, look; he sinks
+    Again. Will you deny the prayer of him—
+                   [_Lowering her voice._]
+    Perchance who dies.
+
+                           ARFI
+                       [_Faintly._]
+                     Egil!
+
+                          INGIMUND
+                              Egil shall live;
+    So much I grant thee, Arfi, but no more.
+    Henceforth thy brother shall be cast in chains,
+    Until the demon-beast that plagues his body
+    Is exorcised and tamed.—Lay on the chains.
+
+    [_As the men approach with fetters, Egil seizes a chain from
+        one, and, springing fearfully to Thordis’s side, there
+        crouches and lifts it to her._]
+
+                           EGIL
+    Not those—but thou!
+
+           [_Thordis puts the chain upon Egil._]
+
+
+
+
+ACT II
+
+
+SCENE I: A prison chamber, dim, built of stone
+
+    _On the right stands a high, framed tapestry, the design
+        partly worked; beside it, on a table, several harps and
+        instruments of music. On the left, extending centre,
+        the half-completed model of a structure resembling the
+        temple in Act I, Scene I; beside it, wooden blocks and
+        miniature beams; in front of it a stone tablet, upon
+        which_ EGIL—_stooped, with an instrument in
+        his hand—is laboriously carving runes. Behind him
+        stands_ ARFI, _at times guiding the hand of his
+        brother, who is evidently being overcome by weariness,
+        against which he struggles for concentration. Finally
+        Egil’s head droops, his hand falls, and his body sinks
+        prone. At the door,_ THORDIS _enters._
+
+                          THORDIS
+    Asleep?
+
+                           ARFI
+            Quite, quite outworn.
+
+                          THORDIS
+                               The task is done?
+            The runes?
+
+                           ARFI
+                  He has mastered them.
+
+                          THORDIS
+                 [_Sighs unconsciously._]
+                                  How swift he learns!
+
+                           ARFI
+    Yes, hourly he hath grown through the strange months
+    Since Ingimund entrusted him to us
+    To dispossess the beast that plagues him.
+
+                          THORDIS
+                                      Look
+        Now where he lies and dreams.
+
+                           ARFI
+                             There lies a block
+    Of chaos, for our wills to fuse and kindle
+    Into a world, glowing with vital forms
+    Of law and loveliness. Yea, Thordis, we—
+    We are his being’s seasons, you and I;
+    The sun and moon, the starshine and the dew,
+    Of this stark heath and breeding moor of passion,
+    And the large jurisdiction of our love
+    Must ripen there the temperate growths of reason,
+    And stablish the mind’s palaces.
+
+                          THORDIS
+                                 You speak
+         In sadness.
+
+                           ARFI
+                Nay, in awe. The thought grows vast
+    And awful.
+
+                          THORDIS
+               So? I do not feel it, I!
+    I feel as elemental as the air,
+    That holds secure within its crystal veins
+    As many thousand summers and their blooms
+    As the earth may yearn for.
+
+                           ARFI
+                                ’Tis because you are
+    Bounteous as the air, that from your presence all
+    Take breath and power. Since you elected me
+    Beside the altar stone, even I, that was
+    A warped and ailing mannikin of woe,
+    Prickling with sensibilities and pangs,
+    Have felt myself exalted and at peace
+    With this poor twisted mask of torse and limb,
+    So simple it seems, so sane, so actual,
+    That what I am was your immortal friend
+    Elsewhere.
+
+                          THORDIS
+               And have you felt the same? We two
+    Have walked eternal mountains hand in hand,
+    And watched the morning of our little lives
+    Break over our birth-hour, and we shall stand
+    Together at the sundown, and behold
+    The passion clouds of death grow pale.
+
+                           ARFI
+                                  And then
+    We shall pass on together.
+
+             [_In his sleep, Egil moans._]
+
+                          THORDIS
+                               We forget;
+    We must not leave _him_ as we found him, love.
+
+                           ARFI
+    The wolf torments him still in sleep.
+
+                          THORDIS
+                                   Poor dreamer!
+    And have you told him yet we are to wed
+    To-morrow?
+
+                           ARFI
+               No; I dreaded to rouse up
+    The old, jealous hate; for since my wound has healed,
+    He seems to have forgotten that old feud,
+    And looks on you and me no more, methinks,
+    As keepers of his prison-house, but rather
+    As his accomplices, that smuggle in
+    Subtle devices for his liberation,
+    To comprehend the use of which he expends
+    All of his time and powers.
+
+                          THORDIS
+                                Accomplices:
+    It may be so; for he, that used to hang
+    With looks of fire upon my merest motion,
+    Will gaze beyond me now with eyes that gloat
+    Blank as a miser’s on some buried hoard.
+
+                           ARFI
+    The gold he hoards is knowledge, and ’tis well,
+    For that preoccupation may assuage
+    The pain he else might feel, when he shall learn
+    Our joy to-morrow.
+
+                [_Egil cries out again._]
+
+                          THORDIS
+                       Yearning heart! how deep
+    It labours still in pain! Let us take care
+    To acquaint him gently with our happiness.
+    We must divert him.—Why, what’s here?
+
+                           ARFI
+                       [_Smiling._]
+                                    A temple;
+    We’re architects.
+
+                          THORDIS
+                      He helped you build it?
+
+                           ARFI
+                               I
+            Am helping him.
+
+                          THORDIS
+                    But how shall this avail
+    To tame the wolf?
+
+                           ARFI
+                      His genius is destruction;
+    His breath and bondage—to annihilate;
+    And therefore Egil must be shown to build
+    And not destroy; of mean, chaotic things—
+    These blocks—to make admired harmony,
+    And shape, however rude, some tangible
+    Earnest of his constructive will.
+
+                          THORDIS
+                                   I see;
+    Who would have thought of it but you? Not I!
+                      [_Egil moans._]
+    Hark!
+
+                           EGIL
+                   [_Low, in his sleep._]
+          Freyja!
+
+                          THORDIS
+                     Did he call?
+
+                           EGIL
+                              Freyja!
+
+                          THORDIS
+                                 That name!
+    You heard?
+
+                           ARFI
+               The goddess Spring’s.
+
+                          THORDIS
+                                You taught him, then,
+    To pray?
+
+                           ARFI
+                Not I.
+
+                           EGIL
+                [_Starting to his feet._]
+                    Freyja!
+
+                          THORDIS
+                            Can this be Egil?
+
+                           EGIL
+              [_Crouched, pacing to and fro._]
+    Free me, Freyja! Frore am I, frost-bit;
+    Go we together into greenwood glad!
+    Mirk under moon-mist mad will meet thee,
+    Hunt thee from hiding, thy heart-beats hear.
+
+                           ARFI
+    It is the wolf that wakes, while Egil slumbers.
+
+                           EGIL
+    [_Looking, with closed eyes, as toward a height._]
+       Free me, Freyja! Fair art thou, froward;
+       Go we together into greenwood glad!
+       Burns thine eyebeam bright as the bitch-wolf’s;
+       Longeth Fenris in thy lair to lie.
+
+                          THORDIS
+    What other name spake he?
+
+                           ARFI
+                              I could not hear.
+
+                           EGIL
+           [_In sudden terror, seeking to fly._]
+    Ai! anarch! anarch! Ulfr!
+
+                          THORDIS
+                              Wake him.
+
+                           ARFI
+                                        Wait;
+    What this reveals to us may prove of help
+    To him.
+
+                           EGIL
+                      [_Defiantly._]
+            Oathless am I!
+
+                          THORDIS
+                          But see! he suffers.
+
+                           EGIL
+    I—I am Allfather!
+    [_Swaying with anguish, as under the blows of a scourge, he
+    sinks upon the floor, overwhelmed and quivering._]
+                       Oathless—am—I—
+
+                          THORDIS
+    Egil, awake! awake! ’Tis nothing.
+
+                           EGIL
+       [_Gradually waking, rises to his knees._]
+                                  Freyja!
+
+                           THORDIS
+    No goddess I, poor Egil, but your friend
+    Thordis, the maiden.
+
+                           EGIL
+                         She thou art—the same
+    Even now that saved me. [_Starting._] What is that?
+
+                           ARFI
+                               Your brother.
+
+                           EGIL
+    My brother he is tall and beautiful,
+    Happy and glorious, and I hate him for’t.
+
+                           ARFI
+    Nay, you have hated me, but not for that.
+    Look on me, Egil.
+
+                           EGIL
+                      Arfi!
+
+                          THORDIS
+                            ’Twas a dream.
+
+                           EGIL
+    What’s that—a dream? Is it a mist that steals
+    Between the eyelids, filling them with shap
+    Begot of its own vapour,—shadows? lies?
+    If so, which shapes are dreams—your forms, or those,
+    Those even now that beheld me, where I crouched
+    Among the crater’s hoar crusts, numb with cold,
+    Yet writhing in the brassy flames, that eat
+    And crawled into my vitals? Mine? No, no!
+    That was not I, that nameless thing, not I!
+    Say “No.”
+
+                           ARFI
+              It was the wolf. You fell asleep,
+    Wearied, and dreamed of him.
+
+                           EGIL
+                                 If that be sleep,
+    Then let me sleep no more. O friends, sweet friends,
+    You that have weaned and reared me from this thing,
+    Promise I nevermore may droop mine eyes
+    But you will prod them open.
+
+                          THORDIS
+                                 You forget
+    How you have grown. Soon you will be once more—
+    But oh! how milder, mightier, than before—
+    Egil, the hunter.
+
+                           EGIL
+                      Till then, Egil the hunted!
+    O Thordis, could I meet—as many a time
+    I’ve met within the forest, face to face,
+    My quarry, and destroyed it—could I so
+    Confront this inward beast and grapple him
+    To the death-struggle,—ha! but with a dream!
+    A spectral wolf, that lurks ever in the dusk
+    And tangled thickets of my brain and will,
+    A wraith invulnerable, that makes his lair
+    In my bosom, that, when I would strike,
+    I lacerate myself, draw life—myself
+    The beast, the bait, the hunter and the hunted!
+
+                          THORDIS
+    Nay, you are still the hunter, he the quarry,
+    Only to track him hath grown harder, for
+    He hath grown duskier as your mind hath dawned,
+    And can no more take shape, as he was wont,
+    In tangible horror to the eyes of all.
+    Yet we will track him—you and I.
+
+                           EGIL
+                                But how?
+
+                          THORDIS
+    With flaming torches we will set ablaze
+    His ancient wilderness, till through the gap
+    Of sundering boughs the quiet stars shall mock him,
+    Naked and overwhelmed.
+
+                           EGIL
+                           But where? What boughs?
+    What fire?
+
+                          THORDIS
+    [_Taking up, among the instruments, a reed-pipe._]
+               The way is wild; this pipe shall lead us.
+    Play, Arfi!
+
+    [_Sitting beside the block temple, Arfi begins to play upon the
+    reed._]
+
+                           EGIL
+                But this pipe—
+
+                          THORDIS
+                                Do you not hear
+    Her voice alluring us? It is a wood-sprite,
+    The elf-child Harmony.
+
+                           EGIL
+                           Where can she lead us?
+    This is a prison.
+
+                          THORDIS
+
+                      She can lead us forth
+    Into the beauteous world. Hark! even now—
+    Do you not see?—the walls are crumbling, bright
+    With ivy-dew and morning.—Don’t you hear?
+    The birds! the birds!—Now, Egil, now your hand!
+    Now on the dance with me! We’ll follow her
+    On—to the chase!
+
+    [_Taking hands, they dance whilst Arfi blows the mellow
+        pipe. Eager, impetuous, Egil becomes kindled by the
+        sound and motion till, in the midst, dropping Thordis’s
+        hand, he gropes toward the wall._]
+
+                           EGIL
+                      The chase! the chase! the chase!
+    Ho, torches for the chase!
+
+                           ARFI
+                [_Stops playing, and rises._]
+                               A metaphor
+    Transforms him.
+
+                           EGIL
+                    Torches!
+             [_Stumbling against the blocks._]
+                             What is this?
+
+                           ARFI
+                                 Our temple;
+    We’ve left it uncompleted.
+
+                           EGIL
+                               This!—the chase!
+    To sit block-building like a little child?
+    To ask vague questions that await strange answers?
+    No! do not mock me! Summon the great hunt.
+    Hand me a torch into my gripping palm,
+    Point where to leap, and let the whirlwinds sing
+    And the great jungles crash in conflagration.
+    The wolf! reveal the wolf! that I may rend
+    The demon limb from limb.
+
+                           ARFI
+                              He rages blind
+    Now in your eyes.
+
+                           EGIL
+            [_Controlling himself, shudders._]
+                      Emancipate me!
+
+                           ARFI
+                                     Come;
+    Here let us sit, as we were boys again,
+    And pile our blocks.
+
+                          THORDIS
+                         Go, Egil! Build with him.
+    The forest-sprite has led you to her temple.
+
+    [_Going to the tapestry frame, while Egil joins Arfi, she
+        begins to work upon the embroidery, observing from time
+        to time their block-building._]
+
+                           EGIL
+    A temple! Still they mock me.—’Tis a toy.
+
+                           ARFI
+    Why, true, a toy, and yet a temple, if
+    The mind bring incense here, and the bow’d heart
+    Make sacrifice.
+
+                           EGIL
+                    We are not pigmies, we,
+    To creep under this gable.
+
+                           ARFI
+                               Are we not?
+    Are we so great? Who hath not stood beneath
+    A sparrow’s egg-shell, speckled o’er with stars,
+    And dwindled there with wonder? Who so small
+    But hath, to quench desire, drunk of the sun
+    Or set his parch’d lips to the moon’s pale rim?
+    So great, so small, neither and both, our stature
+    Waxes and wanes, inconstant as a shadow
+    ’Twixt night and noon and night. This temple, lad,
+    Will be as cramped or spacious as the spirit
+    Which consecrates it.
+
+                           EGIL
+                        Dark! Thou speakest darkness.
+
+                           ARFI
+    Listen! This house of toy-wood is the altar
+    Where you must supplicate the immortal gods
+    For freedom.
+
+                           EGIL
+                 So; the immortal gods! What, then,
+    Are they that I should sue to them for freedom?
+
+                           ARFI
+    They are the powers of the inevitable
+    To whom we mortals must submit our wills
+    Or perish.
+                 [_Egil’s structure falls._]
+
+                           EGIL
+               Ah! it breaks. What made it fall?
+
+                           ARFI
+    A god: the same that holds these prison walls
+    Stone upon stone; the same that mortises
+    The rock-seams of the solid hills, and hangs
+    Aloft the glittering roof-tree of the world.—
+    You builded weak, and the god chided you.
+
+                           EGIL
+    Are then the gods so near?
+
+                           ARFI
+                              In all our acts
+    We feel the might of their invisible hands,
+    But only in prayer behold them face to face.
+
+                           EGIL
+    In prayer?
+
+                           ARFI
+               The abnegation of our wills
+    For theirs, the affirmation of their laws,
+    Which to the god’s “Thou must” answers “I will.”
+
+                           EGIL
+    And that is freedom?
+
+                           ARFI
+                         That alone is freedom.
+
+                           EGIL
+    I will be free then, Arfi. Why, ’tis simpler
+    Than playing with these blocks. I will be free!
+    Teach me to pray.
+
+                           ARFI
+                      I cannot.
+
+                           EGIL
+                           Teach me, Thordis.
+            [_She shakes her head and smiles_.]
+    Alas! who will?
+
+                           ARFI
+                      Yourself alone.
+
+                            EGIL
+                                    But how?
+    How may I know when I have learned to pray?
+
+                            ARFI
+    When, in the full sight of your goal of yearning,
+    Your spirit, pausing, cries out to the gods—
+    “This is my heart’s desire—take it—’tis yours!”
+    That instant of renunciation will
+    Be prayer and freedom both and the wolf’s passing-bell.
+      [_Enter_ WULDOR; _he goes to Arfi and speaks aside._]
+    Admit him.
+
+                          WULDOR
+                  But—
+
+                            ARFI
+                     Why not?
+
+                          WULDOR
+                              His looks are wild,
+    His words were bitter. When he spoke of thee,
+    He laughed and scowled.
+
+                           ARFI
+                           Say we will come to him.
+                     [_Exit Wuldor_.]
+
+                          THORDIS
+       [_Whom Arfi approaches, with a warning gesture._]
+    Who is it?
+
+                          ARFI
+                       [_Aside._]
+               Yorul; he has asked to speak
+    With Egil.
+
+                          THORDIS
+                    Ought we to admit him?
+
+                           ARFI
+                            It is wise,
+    For so may Egil measure what he is
+    By what he was. Look; he has knelt to pray.
+    The time is fitting; we will leave him so.
+
+                          THORDIS
+                 [_Leaving the tapestry._]
+    How noble he looks! Shall we not tell him now
+    About to-morrow?
+
+                           ARFI
+                     We will tell him all
+    When he has prayed.
+                              [_Exeunt._]
+
+                           EGIL
+                        [_Solus._]
+                        To pray—to pray is simple:
+    “This is my heart’s desire—take it—’tis yours!”
+    And so—emancipation. O you gods,
+    If through these prison walls you may behold
+    The mock rites of this childish temple, hear me!
+    Knowledge—knowledge, that is my heart’s desire.
+    That is the soul-inebriating cup
+    Which hath transformed me half unto your image
+    And still hath drugg’d the other brutish half
+    To lethargy and dreams. To know, to learn,
+    And evermore to learn! To watch new worlds
+    Kindling from out the dark of consciousness,
+    Fresh firmaments gathering from drop to drop
+    Of common morning dew; to be upborne
+    On the light-trailing wings of understanding
+    And scan far off the former crawling-place
+    And wolf-haunt of the spirit, to spread those wings
+    At one’s own will and mount into the sun,
+    Searing the mind with ecstasy—you gods!
+    That is my heart’s desire: take it from me!
+    Take it, ’tis yours, for it hath come from you,
+    But when of that you have bereft me, leave
+    Freedom instead, and innocence.
+                                  [_Enter_ YORUL.]
+                         What’s there?
+    Speak.
+
+                           YORUL
+    [_As Egil starts up, bows himself at his feet._]
+     Thy betrayer.
+
+                           EGIL
+                         Oh, art thou a god?
+    And art thou come in answer to my prayer?
+
+                           YORUL
+    Master—
+
+                           EGIL
+               I know thy voice.
+
+                           YORUL
+                 [_Turning upward his face._]
+                             Destroy me.
+
+                           EGIL
+                       [_Dreamily._]
+                                Yorul!
+    Yorul, my liegeman!
+
+                           YORUL
+                        Once thou named me so;
+    Once and the world was sweet—once and ’twas
+    sweet.
+
+                           EGIL
+    Why have they sent thee, Yorul?
+
+                           YORUL
+                               Who, my lord?
+
+                           EGIL
+    Thou art their messenger; be swift; declare
+    Their grace, or doom.—Shall I go free?
+
+                           YORUL
+                                        Destroy me
+    With blows of steel, not of remorse. None sent me.
+    Myself hath driven me here, here to the cell
+    Wherein my treachery consigned my master.
+    Hear me!
+
+                           EGIL
+             I hear thee, Yorul.
+
+                           YORUL
+                                 Since that night,
+    That bitter sunset when she—since that night
+    Till now, I have not left the forest, nor
+    Spoken with friend or foe; but I have stopped
+    My heart in the deep silentness of trees
+    Till it hath burst for pain. My wrong and thine,
+    Thy wrong and mine—I dared to balance them,
+    To let my woe condone my treachery
+    And prove it justified, as if my heart
+    Were not itself thy vassal, and its pangs
+    Feudal to thy desires. And so I sinned
+    Until to-day.
+
+                           EGIL
+                  These are enigmas. Speak!
+    How have the gods made answer to my prayer?
+
+                           YORUL
+    To-day I met with peasants in the wood
+    Who drove their herds of swine all garlanded
+    With green arbutus. Hailing me, they cried,
+    “Why come ye not with us to Odin’s stone
+    Against to-morrow’s wedding-day?” “Who weds?”
+    Quoth I. “Our priestess Thordis weds the dwarf;
+    Come with us!” Then I bit my arm and vowed
+    That I would come to thee and speak my shame,
+    And say, “Destroy me, lord, or let me serve thee.”
+
+                           EGIL
+    Peasants they were; they said—what was’t they said?
+
+                           YORUL
+    “To-morrow our priestess Thordis”—
+
+                           EGIL
+                                “_Weds the dwarf!_”
+    Those were thy words; thou shalt not change them now.
+
+                           YORUL
+    I would not change them.
+
+                           EGIL
+                           Wouldst thou not? Well said!
+    “To-morrow the maiden Thordis”—nay, not so;
+    “To-morrow our priestess Thordis—_weds the dwarf_.”
+    And all their swine were garlanded.—Was it so?
+
+                           YORUL
+    Even so, and I—
+
+                           EGIL
+                        Even so!
+
+                           YORUL
+                           I vowed to come—
+
+                           EGIL
+                       [_Laughing._]
+    Knowledge—knowledge—that was my heart’s desire!
+
+                           YORUL
+    And make confession—
+
+                           EGIL
+                          Why, here have I sat
+    And licked the crumbs of knowledge from his hand
+    As I had been his beagle; and for what?
+    To grow! to be transmuted from a wolf
+    Into my brother’s ape! To evolve a mind
+    That knows at last the rapture it must lose.
+    Oh, noble!
+
+                           YORUL
+               And make confession of my crime
+    As of my love.
+
+                           EGIL
+          [_Beginning to pace back and forth._]
+                       Ha!
+
+                          YORUL
+                       For I loved her well,
+    More than I dreamed. Love leads us from the truth
+    And blinds us to ourselves.
+
+                           EGIL
+                               Ah!
+
+                           YORUL
+                               So when I
+    Beheld that deed—forgive me!
+
+                           EGIL
+                               Ah!
+
+                           YORUL
+                                      I spake
+    Those traitor’s words that damned thee to this cell;
+    For I was mad. O God! the memory
+    Maddens me now.
+
+                           EGIL
+                        Ha!
+
+                           YORUL
+                        Look not on me so,
+    For I am weak and passionate. Take care!
+    The truth deserts me!—Nay, forgive me, master,
+    ’Tis love is falsehood.
+
+                           EGIL
+                         Ah!
+
+                           YORUL
+                               I am thy liegeman,
+    And what was mine was thine to take, unquestioned.
+
+                           EGIL
+    Ah!
+
+                           YORUL
+        Yet my soul _would_ question, and I claimed her
+    In spite of thee, for that same night—
+                          [_Draws nearer and whispers._]
+                                       I killed her.
+    Mine! She is mine! Thou canst not touch her now.
+    She lies out yonder with the virgin stars
+    White and inviolable. Dead, she is mine
+    Whom, living, ’twas thy title not to spare.
+    Master, pity my triumph! Leave me yet
+    This foible of my arrogance, for which
+    Henceforth I am thy loyal slave, to do
+    Or die for thee.
+
+                           EGIL
+                     Wouldst serve me—ah?
+
+                           YORUL
+                                Say how!
+
+                           EGIL
+    Seems thou canst kill.
+
+                           YORUL
+                           Speak but that word.
+
+             [_They look long at each other._]
+
+                           EGIL
+                                 ’Tis spoken.
+           Go!—Stay!
+
+                           YORUL
+               What more?
+
+                           EGIL
+                          Thine oath!—for sometimes, Yorul,
+    The resolute grow sick with afterthought,
+    And hot will cool—thine oath, to shun my sight,
+    To speak not nor be spoken with, until
+    ’Tis done.
+
+                           YORUL
+                 [_Raising his right arm._]
+               By Frida’s cold and virgin hand,
+    To shun my master’s sight, to speak not, nor
+    Be spoken with, until ’tis done.
+
+                           EGIL
+                               ’Tis sworn;
+             Go now.
+           [_Yorul covers his face, and exit._]
+            To-morrow she shall wed—not him.
+    O dupe of lovers! Bond-slave to a dwarf!
+    O gods, your fool! your fool!
+
+    [_Throwing himself down beside the temple of blocks, he
+        destroys it, insensate, and crouches, laughing, amid
+        the ruins._]
+
+
+SCENE II
+
+    [_The curtain rises presently upon the same: a taper burns
+        low_. THORDIS, _seated with a harp, is playing;
+        near her_ EGIL _stands amid the block ruins.
+        Ceasing to play, Thordis rises, looks at Egil (who
+        stands oblivious), passes silently to the window and
+        looks out._]
+
+                          THORDIS
+    The moon has set.
+
+                           EGIL
+                [_Stirs as from a trance._]
+                      Can, then, the eternal cease?
+    That perfect architecture pale in air?
+    You built again my temple of sweet sounds
+    And peopled it with deathless visitants,
+    And shed around their forms a nameless grace
+    Medicinal as moonlight, and as calm.
+    I walked with them, and they discoursed with me.
+    Almost it seemed myself was one of them.—
+    And then you ceased.
+
+                          THORDIS
+                         ’Tis beauty’s paradox
+    To prove itself immortal—and to die.
+
+                           EGIL
+    Die? Must this godlike transmutation lapse
+    Into the lurking wolf again? Ah, no!
+    That music died in labour, and its yearning
+    Hath borne a man-child, that lives after it
+    Here in my soul. Henceforth I nevermore
+    May be that groping hypocrite of prayer
+    Whom you uplifted from this ruined altar,
+    With passion-sealèd eyes seeking the light
+    Of freedom. No, henceforth I shall be strong,
+    Clear-eyed, serene, and dauntless. See! I take
+    Your hand and bid you go from me.—Thou only,
+    Thou art my heart’s desire. See! I renounce thee.
+    Go from me, for I love you. Leave me! Yet
+    You leave me not alone; that passionate presence
+    Which the blind wrath and hunger for possession
+    Cries out for from my clay—of that I am
+    Bereft indeed; but losing that, I gain
+    The stellar part of you, the exceeding light
+    Of fellowship and human sympathy.—
+    Leave me! I love you.
+
+                          THORDIS
+                          Is this Egil speaks?
+
+                           EGIL
+    Egil, your lover, I!
+
+                          THORDIS
+                         The gods are mighty,
+    And music is the lordliest. O Egil,
+    Thou art emancipated, and to-morrow
+    They will fling wide thy prison doors.—Good night!
+                    [_Giving him the harp._]
+    Keep here thy god with thee.
+                    [_At the door, as they clasp hands._]
+                            Brother!—Good night.
+
+                         [_Exit._]
+
+                           EGIL
+    Sister!—Emancipated! Mine at last
+    Freedom and innocence! The occult beast
+    That crouched beside the sweet wells of my spirit
+    Is exorcised at last.—To-morrow dawn
+    I shall go forth and taste the wild, spring air,
+    And gather the hamlet children in the woods
+    To pluck arbutus for her wedding-day,
+    Her wedding-day—and his. I have renounced her.
+    Emancipated—but I have renounced her
+    Even for that, for freedom. What were freedom
+    Without—his! his! forever his own! And I
+    Am happy, rapt, triumphant? _His!_ What power
+    Hath wrought in me this ignominy?
+                       [_Lifting the harp._]
+                                 Thou!
+    Wast thou, imperious instrument! Wast thou,
+    Delirious god!
+                 [_Fiercely he plucks out several strings._]
+           Thou hast decoyed me!
+                               [_Pausing._]
+                                         Still,
+    There’s Yorul; Yorul’s true.
+
+    [_Wrenching with both hands the harp’s frame, he breaks it
+        in halves, and exultant, raises them above his head,
+        with a great breath._]
+
+                             Emancipated!
+
+
+
+
+ACT III
+
+
+SCENE: A forest glade
+
+    _On the left, a green bank and a pool, back of which is a
+        thicket; on the right, a vista, beneath boughs, of a
+        distant volcano, rising through the wet light of dawn._
+
+                       EGIL’S VOICE
+                       [_Outside._]
+        Help—O! help—O!
+
+                       SHRILL VOICES
+                       [_Outside._]
+               A troll! a troll! a troll!
+
+    [_Enter, right_, EGIL, _running. He is completely
+        surrounded and swarmed over by little children in bright
+        spring garb. One little girl has climbed upon his
+        shoulder, where she clings._]
+
+                      THE CHILDREN
+    Heigh! hold him fast. Troll! troll!
+
+                          EGIL
+                          Help, gentle greenwood!
+    Am I but now escaped men’s prison walls
+    To fall into this ambush of thine elves!
+    Save me, you wrens and warblers! Fetch me wings!
+
+                      THE CHILDREN
+      [_Taking hands, dance about him, singing._]
+                   Thrice, thrice,
+                   Thrice around thee!
+                   Star-wise
+                   Our steps surround thee;
+               Now yield thee, yield thee, proud Sir Troll!
+                 Body and soul
+                   Our spells have bound thee.
+
+                           EGIL
+                   Thrice, thrice,
+                   Thrice around me!
+                   Star-wise
+                   Your steps surround me.
+               Now yield I me and pay my toll—
+                 Body and soul
+                   As ye have bound me.
+    [_He lies down, pretending death; each child places his foot
+        upon him, with a shout. At this he springs up, laughing,
+        seizes a little boy and girl, and, seating himself on a
+        log, places them on his knees. The others cluster about
+        him._]
+    Ha, sirrah! is this maid thy sister?
+
+                     THE LITTLE BOY
+                                 Yes,
+            She’s mine.
+
+                           EGIL
+                What wouldst thou do if I should steal her?
+
+                     THE LITTLE BOY
+         I’d kill you.
+
+                           EGIL
+                  Ha! wouldst let him?
+
+                     THE LITTLE GIRL
+                                   Oh, of course;
+    He is my brother.
+
+                           EGIL
+                      ’Tis a brother’s right
+    To kill, I see.
+
+                     THE LITTLE GIRL
+                    In play, you know.
+
+                           EGIL
+                               In play.
+
+                      THE CHILDREN
+    Come play! Come play!
+
+                           EGIL
+                          What now?
+
+                      THE CHILDREN
+                     [_Severally._]
+                                Fox and wild geese!
+    Glass-mountain, Spinning-fairy, Cat-skin, Crows,
+    Frog-bridegroom!
+
+                     THE LITTLE GIRL
+                     _I_ know what!
+
+                           EGIL
+             [_Takes both her hands, smiling._]
+                                Well, what?
+
+                     THE LITTLE GIRL
+                                       I’ll be
+    Red Riding-hood, and you shall be the wolf.
+
+         [_Egil drops her hands and rises._]
+
+                     THE LITTLE BOY
+    I’m the good hunter and these are my men.
+
+                           EGIL
+           [_Vassal-like to the little boy._]
+    Beseech you, sir, may I not play your part?
+    I’d fain be the good hunter.
+
+                     THE LITTLE BOY
+                             Granted, earl.
+    I’d fainer be the wolf.
+                 [_To the children._]
+                            Come! gather your flowers.
+
+                           EGIL
+    And when you’ve filled your laps and aprons up
+    With wind-flowers and arbutus, bring them here.
+    Mind! ’tis our lady Thordis’ wedding-day.
+
+                     THE CHILDREN
+            [_Running from the little boy._]
+    The wolf! the wolf!
+
+    [_Passing left into the wood, they are seen for some time
+        gathering flowers and watching, in their game, the
+        stealthy approachments of the little boy._]
+
+                           EGIL
+                        O freedom! happy world!
+    Hark, how they laugh, with bubbling undersong
+    Sweetening the over-choir of the birds.
+    And I—I, too, can laugh; can loose my soul
+    Free-wing’d into the open with a cry
+    Unfetter’d as a lark.
+
+    [_Looking up into the tree-tops, he laughs again._]
+
+                          O rarest laughter!
+    O medicine of the long-languish’d mind!
+    O welling of the heart’s sweet waters up,
+    Washing the acid tang of cynic woe
+    Sere from the spirit’s lips. O benison
+    Of innocence! And have I lived before
+    This hour? Is not this day creation’s dawn?
+          [_Flinging himself upon the bank._]
+    These children, with their lifted flowerlike faces,
+    These flowers, with their dewy childlike eyes,
+    These parting vapours on the golden hills,
+    Yea, all these leaves of little twinkling grass
+    Whose roots strike down to tears of yesterday—
+    Now shine like things immaculate, new-born,
+    And I, and they, like issue of one mother,
+    The offspring of an universal birth.
+    Oh, what exceeding power hath loveliness
+    For her beholder!
+
+    [_Where he lies thus rapt in the sylvan landscape, the
+        first sunlight breaks through the wood, and by it the_
+        SHADOW _of a man is thrown sharply, from the
+        left, across the reclining form of Egil. At the same
+        time, from the right, is heard Arfi’s voice, singing._]
+
+                     THE VOICE OF ARFI
+                Thy heart, love, give or take
+                  Or cast away;
+                Mine shall not break
+                  Forever and a day;
+    For lovers kiss their mates where thoughts are kind.
+    Love lives within the mind—the mind—the mind.
+
+        [_Slowly having risen to his feet, Egil perceives
+                 the human shadow and starts._]
+
+                           EGIL
+                        Yorul!
+    [_The shadow recedes, left, from the scene._]
+                                 Yorul, stay!
+    Come back!
+
+                     THE VOICE OF ARFI
+                The redstart and the rose,
+                  The clear sunrise,
+                What mortal knows
+                  Their grace to immortalise?
+    Seek them again, where Death can never find,
+    By love, within the mind—the enamour’d mind.
+
+                           EGIL
+                 It must not be.—Yorul!—What, I
+    Was mad, who now am sane and innocent.
+    Come back! It shall not—Yorul!
+
+                          THORDIS
+                     [_Calls outside._]
+                                    Egil!
+
+                           EGIL
+                       [_Pausing._]
+                                     She!
+
+    [_Enter, right_, THORDIS _and_ ARFI.
+        _They are dressed in white, the dwarf being quaintly
+        garlanded. They are followed by_ WULDOR.
+        _Thordis goes gaily toward Egil, extending both her
+        hands._]
+
+                          THORDIS
+    Deserter! runagate!—Look, Arfi, here’s
+    Our truant brought to bay. And will not yield!
+    And will not even surrender up his eyes
+    To his imploring gaolers.—O proud brother!
+    Not even a hand-clasp in return for all
+    Thy struck-off shackles?
+              [_Taking her hands, he still looks off left._]
+
+                           EGIL
+                             Lady!
+
+                          THORDIS
+                                 Still no eyes
+    For mortals? Quite enamoured of a wood-sprite?
+    Alas! we’ve broke a tryst and she has flown!
+    Call her: perchance she’ll hear.
+
+                           EGIL
+                 [_Looking upon Thordis._]
+                                     Lady!—
+       [_Quickly then turning away, speaks under his breath
+               to Wuldor._]
+                                  A word,
+               A word!
+
+                           ARFI
+              He’s deeply moved.
+
+                          THORDIS
+                             He’s deeply changed.
+    Saw you his eyes when they turned full on me,
+    And he said, “Lady”? There were tears in them,
+    Tears, and yet through them glowed the ancient fire,
+    Not now in wrath, but tenderness.
+
+                           EGIL
+                    [_Aside to Wuldor._]
+                                  Overtake him;
+    The oath he swore to Egil—tell him—Egil
+    Now countermands. Bid him do nothing; go!
+        [_Watches Wuldor off, left. Arfi, quietly looking
+               at him, speaks to Thordis._]
+
+                           ARFI
+    You love him dearly?
+
+                          THORDIS
+                         Very dearly.
+
+                           EGIL
+                               Brother,
+        Thordis, your hands again!
+
+                           ARFI
+                       [_Smiling._]
+                           Have you despatched
+    Wuldor to find the lady wood-sprite?
+
+                           EGIL
+                                    Friends,
+    Were we less deeply known to one another,
+    And chiefly I to you—what thing I was,
+    What now, perchance, am grown—well, I suppose
+    ’Twere custom, were it not? to wreathe our lips
+    With honey-blossoms of superfluous
+    Congratulation: you are to be wed,
+    And I am free, and my emancipation
+    Owes all itself to you.—“Heaven be with you!”
+    “I thank you well,” “Joy is to me!”—But these
+    Things being said, and rung with all the chimes
+    Of truth, I beg of you let now these hands
+    Speak the unsaid remainder for our hearts
+    In silence.
+                [_The three hold hands._]
+
+                           ARFI
+                     [_After a pause._]
+                Vaster powers than we have wrought
+    This friendship. Whom the gods join hand in hand
+    Their fates thenceforth are mingled.
+
+                          THORDIS
+           [_Loosening her hands with a laugh._]
+                                So, dear lord,
+             Be merry!
+
+                           ARFI
+             [_Speaks low, with a smile._]
+              Have I not divinest reason?
+    This is the place.
+
+                          THORDIS
+                      Arfi! The sacred pool?
+
+                           ARFI
+    The pool of Freyja—there! The wood-folk call it
+    Her mirror, for they say that once i’ the year,
+    Ever at May-day, the fresh goddess comes
+    To sit beside it with her elves, whilst they
+    Comb her bright hair.
+
+                          THORDIS
+                          And then she peers within it?
+
+                           ARFI
+    As you do now.—Sweetest, good-bye!
+
+                          THORDIS
+                                  Good-bye?
+         But where are you going?
+
+                           ARFI
+                             The wood pathway to heaven.
+    I’m going to hasten that laggard priest, your father,
+    To make him make you mine.
+
+                           EGIL
+                           Stop! You’re alone.
+
+                           ARFI
+    Well?
+
+                           EGIL
+                     [_Embarrassed._]
+          Will it be now?
+
+                           ARFI
+                          Am I not written large
+    With bridal runes? Hang not these garlands thick
+    As invocations from an inn-house gable?
+    “Here light ye down, fair guests! Light down, light down,
+    Dear lady, at the sign of the ‘_Green Bridegroom_!’”—
+    Farewell, sweetheart. This day is clothed in green
+    For joy. I will return with Ingimund
+    As swift as longing.
+
+                           EGIL
+                         Stay; we must be wise.
+    You must not leave me here alone with her.
+
+                           ARFI
+    Why? Are you not my brother?
+
+                           EGIL
+                              I am he
+    Who vowed against you hatred and revenge.
+
+                           ARFI
+    Also you are my brother.
+
+                           EGIL
+                              I am he
+    That with a brutish fang struck at your life.
+
+                           ARFI
+    Good-bye, dear brother.
+
+                           EGIL
+                           Wait! Was I not then
+    Your brother—_then_? Will not a brother lust?
+    A brother covet? Are not beauty, grace,
+    Lures to a brother’s eyes? Are brothers’ souls
+    By nature kin? Or is that name a spell
+    To render heart and mind innocuous
+    That else might murder, ravish? Oh, be not
+    So rash as put your trust in me because
+    I am your brother.
+
+                           ARFI
+          [_Returning to Egil, embraces him._]
+                       Lad, keep this with you.
+    I would not be so rash as _not_ to trust
+    In you a power more august than yourself
+    For all the joy and honour which this day
+    Holds out to me.—Adieu! This day is joy’s.
+                                [_Exit, right._]
+
+                           EGIL
+    Now we’re alone. How is it with you—sister?
+
+                          THORDIS
+    Strangely, my brother; how is it with you?
+
+                           EGIL
+                                        O God!
+    How many waking dawns and desperate nights
+    Have I, in sharp imagination, moaned
+    For this sweet hour, to stand—as now
+    I stand—alone with you, in liberty.
+
+                          THORDIS
+    And now that time has come.
+               [_She reaches to him her hand;
+                       he does not take it._]
+
+                           EGIL
+                                Now it is come,
+    But ah! how sternly different is this truth
+    From all I dreamed. Can this be freedom? See!
+    What hangs upon these arms? They wear no chains.
+    Why, then, do they not catch you breathless up
+    And bear you hence in rapture? In your eyes—
+    Lo! veilless I behold your virgin soul!
+    And yet she does not fly, nor I pursue.
+
+                          THORDIS
+    What should she fear?
+
+                           EGIL
+                    What should she not?—These eyes
+    Renouncing hers; these hands that dare not press
+    Her vesture’s hem, lest they consume like coals
+    That robèd sanctuary; these desires
+    That burn around her like the hedge of flames
+    Round Brunhild’s bower; this waiting dawn, this hush
+    And solitary wood—What fear? Herself,
+    Herself that, all resolved to beauty, breathes
+    Herself unto these eyes, these hands, this dawn,
+    These leash’d desires!
+
+                          THORDIS
+                          You love me, you would say.
+            Why should you not?
+
+                           EGIL
+                           I have renounced you.
+
+                          THORDIS
+                                            Me,
+    But not your love for me. Surely that still
+    Is happiness.
+
+                           EGIL
+                  Why, yes, I must be happy;
+    For this is pain, and pain is very sweet
+    To those who love; and this is bitter sweet
+    To breathe the name of “sister” ’gainst your cheek
+    Where but so late the sigh of “sweetheart” stole
+    Warm from my brother’s lips.—O lure and vision!
+    Do you not see? I have climbed up to you
+    Out of the rank abyss; this is the verge:
+    One word, one look, from you must hurl me back,
+    Or save me.
+
+                          THORDIS
+                     Look.
+
+                           EGIL
+                      How have you dared to trust me?
+
+                          THORDIS
+    When have we ever ceased to trust you?
+
+                           EGIL
+                               “We”?
+
+                         THORDIS
+    Arfi and I. Oh, he is very wise.
+    His judgment is as gracious as a child’s
+    That in the wonderland of its own wisdom
+    Imagines nothing baser than itself.
+
+                           EGIL
+          But I _am_ baser.
+
+                          THORDIS
+                      Hath it proved so?
+
+                           EGIL
+                     [_After a pause._]
+                                         No!
+    No; thanks to you and him and my own pain,
+    It shall not prove so. This at last is power
+    And innocence; this—this at last is freedom.
+    Now when I clasp your hand I clasp his also—
+    My saviour’s; now beneath your face, for shrine,
+    I will confess my spirit to you both,
+    For are you not my gods? You have created
+    My heaven and hell, and builded my path heavenward.
+    Now from your eyes nothing—nothing within
+    This heart shall be concealed.
+
+                          THORDIS
+                        [_Smiling._]
+                               What then is your secret?
+
+        [_On the edge of the scene, left, unobserved by them,
+               reappears the human_ SHADOW.]
+
+                           EGIL
+                     [_Slowly rises._]
+          My secret?
+
+                          THORDIS
+               Come, sit with me on this bank,
+    And I will be a listening stream, a bird,
+    An opening flower, to overhear you.
+
+        [_He follows and sits beside her; the Shadow
+                 slowly moves toward them._]
+
+                           EGIL
+                                But—
+
+                          THORDIS
+    That thought which falters now behind your lips.
+
+                           EGIL
+    I have no thought which hides from you.
+         [_The Shadow moves between them. Egil starts
+                 up with a cry._]
+                                  Again!
+        Again it falls upon me!
+
+                          THORDIS
+                           What?
+
+                           EGIL
+                               ’Tis gone.
+
+                          THORDIS
+    What’s gone?
+
+                           EGIL
+                 It is no matter.
+
+                          THORDIS
+                               A surprise!
+    I see: a wedding-day surprise for us.
+
+                           EGIL
+    No, but a lie. I lied to you. Last night
+    I told you I renounced you, but I lied.
+
+                          THORDIS
+    Egil!
+
+                           EGIL
+          It was the music, the harp-demon;
+    It blinded and then tempted me; it lured me
+    To obtain my freedom falsely. But to-day,
+    This morning when my body fetterless
+    Roamed in this wood-side, and the little children
+    Climbed over me in laughter, and I too
+    Laughed with them, and all nature laughed and echoed
+    “Thou art emancipated!”—I was healed;
+    Then I was healed and now all’s well again;
+    All’s well; no harm shall come to him.
+
+                          THORDIS
+                                   To whom?
+    I do not understand.
+
+                           EGIL
+                         You have no need;
+    I claim your own assurance. Will you trust me?
+
+                          THORDIS
+    So well that, now you have put your secret by,
+    I will tell mine.
+
+                           EGIL
+                    What secret can you have
+        For me?
+
+                          THORDIS
+            You have been wicked; so perhaps
+        Have I.
+
+                           EGIL
+                       [_Smiling._]
+            You!
+
+                          THORDIS
+                   [_Showing her hand._]
+                 Look! look there.
+
+                           EGIL
+                               A scar.
+
+                          THORDIS
+                                 The mark
+                  Of fangs.
+
+                           EGIL
+              What thing has dared to give you pain?
+
+                          THORDIS
+    Have you forgot?
+
+                           EGIL
+                     Ah me! I had forgot.
+    Cannot you, too, forget?
+
+                          THORDIS
+                          I would not; that’s
+    My secret. Yes, this scar is dear to me.
+
+                           EGIL
+    That sign of blasphemy, of him—the werewolf—
+
+                          THORDIS
+    Is dear to me.
+
+                           EGIL
+                    Thordis!
+
+                          THORDIS
+                            I loved the wolf.
+    It was a life to nourish and protect,
+    A being alien and mysterious,
+    Yearning and captive. It was terrible,
+    And yet so eager, swift, and passionate
+    It fascinated me. It was ignoble,
+    Cruel, yet infinite of promise; cunning,
+    Malicious, yet beautifully animate,
+    Sublimely animal.
+
+                           EGIL
+                      O pain!
+
+                          THORDIS
+                              To take it
+    Into my bosom, foster its wild growth
+    From hour to hour, to watch from day to day
+    The fierce light of its eyes glow deeper, milder,
+    To nestle it only to set it free—these joys
+    Were pangs to me.
+
+                           EGIL
+                         [_Low._]
+                    Have pity!
+
+                          THORDIS
+                                 Then it was
+    So lordly, so imperious of strength,
+    In grace so sinuous, in pride so ardent—
+    Who had not been enamoured of it?
+
+                           EGIL
+                                      Cease!
+    It wrought some monstrous spell to make you wanton.
+
+                          THORDIS
+    If that be wantonness which fain would take
+    No joy of loving but the giving joy.
+
+                           EGIL
+    But for that beast you turned your thoughts from Arfi?
+
+                         THORDIS
+    You do not understand; Arfi and I
+    Are one; it needs no murmured wedding vows
+    To make us that. But I am beautiful,
+    And all who look upon me love to press
+    Nearer and touch my gown, and when I pass
+    I feel the ruddy mantling of their cheeks
+    And the wild admiration start; and these
+    Are joys to Arfi as to me, and we
+    Return their love.
+
+                           EGIL
+                    Even so you loved me?
+
+                          THORDIS
+                                          No,
+    More than all those, for you alone of those
+    Had need of me.—And so you have my secret.
+    I fear indeed it is a wicked one;
+    For I have been like a too-doting nurse
+    That lets her heart hang backward in regret
+    And whispers her loved one, “Grow, but do not leave me!”
+
+                           EGIL
+    For what then have I grown, O gods?
+
+                          THORDIS
+                                      For this:
+    To be yourself, and free of that nurse-bondage.
+
+                           EGIL
+    Free! but alone, adrift! Oh, take me back
+    Into the bosom of your care. Once more
+    Nestle me there, the wild thing!
+
+                          THORDIS
+                                 That once more
+    So you might struggle for your freedom? Nay,
+    The wild thing now is dead.
+
+    [_Enter Wuldor, left; he goes to Egil._]
+
+                           WULDOR
+                                I cannot speak
+    With him. When I approached, he fled from me,
+    Silent. I called, but both his hands he pressed
+    Over his ears, and silently among
+    The trees eluded me.
+
+                           EGIL
+    [_Seizing Wuldor’s wrists, speaks huskily._]
+                         I have not willed this;
+    They cannot lay this crime on me—these gods,
+    For I have annulled it, I have cancelled it.
+    Come here, look in my heart; is it not clean?
+    Woe thou mayest see there, yearning, pain, but not—
+    Say, canst thou see there—murder? Answer not,
+    But go! What will come _will_ come; what have I
+    To do with it? Go, go, I say.
+                   [_Exit Wuldor, right, looking darkly._]
+
+                          THORDIS
+                               You are ill,
+    Your gestures—they are wild.
+
+                           EGIL
+                        Why should they not be?
+    The wild thing is not dead, but is exalted.
+    Gods, why should we, your hinds, coin and devise
+    Dreams of emancipation! We are quibblers
+    And hypocrites, damned, every slave of us,
+    To hug our chains in secret. Rather than
+    Acknowledge what we are, the mind outwits
+    The heart, the heart hoodwinks the mind, the tongue
+    Cajoles and counterplots them both, while truth—
+                          [_Breaks into laughter._]
+
+                          THORDIS
+    Tell me the truth.
+
+                           EGIL
+                       Again? Another version?
+    Why, listen then: I love you; not in the awful,
+    Serene idea of self-sacrifice,
+    But passion, which of right demands return
+    Of passion, nature’s just and ancient barter.
+    I want you; I demand you—all yourself.
+    I offer all myself.
+
+                          THORDIS
+                        What of your brother?
+
+                           EGIL
+    I ask you nothing which he does not ask.
+    He offers nothing which I do not offer.
+    There was a difference between us once,
+    Not now.
+
+                          THORDIS
+             Hath he not made you what you are?
+
+                           EGIL
+    Yes, he and you.
+
+                          THORDIS
+                     And in requital now
+    You would seduce his bride?
+
+                           EGIL
+                               No, not seduce;
+    Demand. Yes, though I seem to rave, I speak
+    Love and conviction. Judge me, dear my lady.
+    You chose between us brothers when we were
+    Contrasted in our souls as some meek bard
+    Of pity, with a beast. Look on us now
+    Again, before it be too late, and choose
+    Between us now.
+
+                          THORDIS
+                    I have chosen once for all.
+
+                           EGIL
+    But have you chosen blindly?
+                [_Points into the wood._]
+                              Do you see,
+    By yonder pine, that wild crab-apple tree?
+
+                          THORDIS
+    I see a tree just bursting into flower.
+
+                           EGIL
+    Is not it beautiful?
+
+                          THORDIS
+                         ’Tis ravishing.
+
+                           EGIL
+    Last winter, had you passed, you might have seen it
+    Writhing its frozen limbs there like a thing
+    Accurst, all pinched and scrambled by the pangs
+    Of screaming winds; you would have shrunk from it
+    Beneath the verdurous pine, in whose sad boughs
+    The same winds sung like voices of tuned lyres.
+
+                          THORDIS
+        It may be so.
+
+                           EGIL
+                  Yet now behold it, now!
+    A pale-rose pyre of fragrance and of flame,
+    Wherein, like sacrificial spirits, sit
+    The tawny and vermilion birds, and strike
+    Their silvery chants in unison, and hung
+    Amid the tangled bloom, in murmurous choirs,
+    The blazing gold bees shrill their mellow horns.
+    Look, Thordis, look again! If you were Freyja,
+    Herself, goddess of spring, which would you choose
+    For shelter now, and joy?
+
+                          THORDIS
+                      [_Gazing at him._]
+                              Ah me!
+
+                           EGIL
+                                     If spring—
+    If spring and the sweet south can so transform,
+    What cannot love? Your warmth, your breath, your soul,
+    Soft on my numbness, my deformity,
+    Breathed, and I sprung—a burning tree of bloom—
+    Beside you. Have you eyes for flights unseen?
+    Hearing for choirs unheard? Here, too, beside you
+    Fierce swarms of golden fancies work in song
+    The fecund pollen of my passion, here
+    A thousand bird-wing’d visions nest them down
+    Into the heart of me, to chant your praise.
+    You that have so transformed me, you repulse me
+    Now?
+
+    [_Enter right, in the background, Arfi; he pauses unseen._]
+
+                          THORDIS
+         Take your eyes from mine.
+
+                           EGIL
+                                You love me; you
+    Who fostered me, the wild thing, love me still.
+    My secret scar is on you; you are mine,
+    Not his.
+
+                          THORDIS
+               Oh, leave me!
+
+                           EGIL
+                           Yet you seize my hand.
+
+                          THORDIS
+        Leave me, leave me!
+
+                          EGIL
+                        Yet you take me to your heart.
+
+                          THORDIS
+    A myriad loves the heart hath, but one mate.
+    Once only may the cry of soul and body
+    Be answered; the great need can be but once.
+
+                           EGIL
+    Now is the great need come.
+
+                          THORDIS
+                             How may we know?
+
+                          EGIL
+    I am your being’s master. If his soul
+    Were listening to us now, I would cry out:
+    “I have outgrown thee, brother. What thou art
+    I am and more, for I have wrung from thee
+    Thy potent mind, and forged it to my passions
+    To make a lordlier instrument. Mine, therefore,
+    Not thine, the ordainèd need of her. Mine!”
+
+                          THORDIS
+                                Love me!
+    [_He kisses her. Arfi moves into the thicket and disappears.
+        Thordis, putting Egil from her, draws a dagger upon
+        herself._]
+    Ah, my betrayer! It is ended.
+
+                           EGIL
+             [_Seizing the knife from her._]
+                                  No;
+    You shall not choose so. If that name indeed
+    Be mine, keep silence now, while I avenge
+    The kiss of thy seducer.
+
+    [_As he turns the knife upon himself, Thordis cries out._]
+
+                          THORDIS
+                             Egil!
+
+                           EGIL
+                               Love!
+    [_Springing to her, beside the pool, he recoils._]
+    Impending image! persecuting shape!
+    Depart.
+
+                          THORDIS
+            Alas! are we both mad?
+
+                           EGIL
+                                   Remove
+    The prying horror of thine eyes. Not now—
+    At this the utmost instant of my joy
+    Intrude not now.
+
+                          THORDIS
+                       Whom do you speak to?
+
+                           EGIL
+           [_Staring past Thordis into the pool._]
+                                           There!
+    Look, we have murdered him. It comes to tell us;
+    It points at thee, to say thou, too, art guilty.
+    We have betrayed and killed him, thou and I.
+    See, see! It kneels and craves our sanction.—Rise,
+    Remorseless shadow! Go! I give it thee.
+
+    [_He hurls the dagger into the pool. As he staggers back,
+              Thordis rests his head on her shoulder._]
+
+                          THORDIS
+    Peace, brain and heart!
+
+                          VOICES
+                [_Far away, right, sing._]
+          How should the bed, the bridal bed,
+                  Freyja, be spread?
+          Pine garlands at the foot, rose garlands at the head.
+
+                           EGIL
+                           Is it gone?
+
+                          THORDIS
+                                      Nothing is there.
+    Rest, rest, poor dreamer!
+
+                        THE VOICES
+                         [_Sing._]
+            What on the maid, the bride and maid,
+                      Freyja, be laid?
+            The rose’s innocence, ere those fresh garlands fade.
+
+                           EGIL
+                           Hark! the bridal virgins!
+            [_Thordis shrinks from him._]
+    Stay, Thordis; now the awful need is come.
+    While yet we are alone in the great silence,
+    Now, now, before they find it, pale and red,
+    Heaped in the path of roses, now—be mine.
+
+                          THORDIS
+    Freyja, help me! Freyja, goddess and maiden!
+
+                           EGIL
+    His soul descends upon us both, and seals
+    This act with blood of sacrifice. His blood
+    Our nuptial rite hath reddened.
+
+                          THORDIS
+                                 Save me!
+
+                           EGIL
+                                        Hush!
+    This is the vernal god, the appalling arm
+    That clasped the world i’ the primal age, and moaned—
+    “Let there be life!”—Hush, love; do not you hear
+    The stealing saps stir through the forest, feel
+    The seeking joys of all wild, mating things
+    Throb in their blood and ours, their kindred,—
+
+                          THORDIS
+                   [_Breaking from him._]
+                                           Help!
+          Help, Arfi!
+
+    [_She escapes, right, into the wood. As Egil pursues her,
+        there steps from the thicket, into his path, Arfi.
+        Egil pauses._]
+
+                           EGIL
+                May the dead be summoned back
+    To curse us with forgiveness?—Spirit, be stern
+    And not compassionate. Come in your wounds,
+    Fell and disfigured, not benignly thus.
+    Oh, not your love-your vengeance! Not your love!
+      [_Shields his eyes with his arms. As he does so, Arfi, with
+          a serene gesture, is about to speak, when from the
+          thicket Yorul springs silently out and stabs him. Arfi
+          falls motionless; Yorul withdraws. Slowly Egil looks
+          again._]
+    Yea, now thou hast resumed thy murder-garment,
+    And hast drawn on thy bridal-robe of wounds,
+    And laid thee at my feet in vengeance. Now
+    This is indeed thy vengeance—brother! master!
+            [_Stoops beside the body._]
+
+                   VOICES OF THE VIRGINS
+                      [_Sing, near._]
+            What o’er the man the maid shall wed,
+                        Freyja, be shed?
+            The pine’s immortal breath, ere those green boughs are dead.
+
+    [_Starting up, fearful, Egil hales the body toward the left,
+        but having reached the centre pauses, as the laughter
+        of children rises in the way before him. Turning, he
+        is dragging the body down scene, when the children,
+        scampering in, left, with their aprons and baskets
+        full of wild flowers, run towards him. Finger on lip,
+        he motions them silence; their laughter and shouts die
+        away, awed_.]
+
+                           EGIL
+    He is asleep; the bridegroom is asleep.
+    Scatter your wild flowers over him. Look, he smiles,
+    He’ll laugh when he awakes and sees them.—Soft!
+
+                       THE CHILDREN
+    [_Whispering, gather in a circle and, pleased as at some game
+         of mystery, heap the flowers upon Arfi, and sing low._]
+
+                      Flowers bring
+                      And fairy numbers!
+                      Sweet Spring
+                      His spirit cumbers.
+                Still be highhole! still be thrush!
+                    Hush! hush!
+                      Now he slumbers.
+
+    [_Treading softly, with covert laughter and “hushes,” the
+        children steal away. Heaped over the body of Arfi and
+        completely concealing it, they have left behind them a
+        great pile of arbutus, violets, and other flowers. Some
+        of these Egil is replacing more carefully, when the pile
+        is shaken from within, and up through it rises the form_
+        BALDUR. _Dazzled, Egil kneels._]
+
+                          BALDUR
+        Hail, brother!
+
+                           EGIL
+                   Art thou sunlight, or a voice?
+
+                          BALDUR
+    This is the word of Odin!
+               [_Egil sinks prostrate._]
+                              If the wolf
+    Seduce to his desire his brother’s bride,
+    He shall be lord with her of heaven and earth
+    And hell, and by their passion the serene
+    And stablished beacons of the gods shall be
+    Eclipsed in night, anarchical and void,
+    Where, staggering with lust, the blinded world
+    Reels back to chaos and the primal dark.
+
+                           EGIL
+                    [_Hiding his face._]
+    And if the wolf renounce her?
+
+                          BALDUR
+                          He shall perish,
+    Slain by his own self-mastery, and all
+    The spirits of light, freed from that awful dread,
+    Shall strew his charnel, singing.
+
+                           EGIL
+                                 Ah! but she—
+
+                          BALDUR
+    She falters yet; she hangs upon his will.
+    The lure of imperfection is the sin
+    Of gods, the lure of godhood that of mortals.
+    She wavers still.
+
+                           EGIL
+                      Bright shadow, golden voice,
+    Say what thou art.
+
+                          BALDUR
+                       Baldur, the son of Odin.
+
+                           EGIL
+                       [_Starts up._]
+          Then I—?
+
+                          BALDUR
+                Fenris, the wolf-god!
+    [_He sinks again into the flowers, and is gone._]
+
+                           EGIL
+                                 Ah! the dream!
+    The dream is true; the truth is visionary.
+
+    [_From the left, two or three of the children return from
+        the wood, and stand silent. From the right, the lutes
+        and pipes of the bridal procession grow louder, and
+        shortly enter the virgins_, INGIMUND, _Thordis,
+        Wuldor, and others, as Egil still stands lost in
+        soliloquy._]
+
+    “And there, in slumber, even as mortals dream,
+    Slumb’ring, that they are bright, immortal gods,
+    You shall be mortals, and shall walk as men,
+    Forgetful of your immortality.”
+
+                          THORDIS
+    Was not he with you, father?
+
+                         INGIMUND
+                                 He went before
+    A little space, to greet you first.—My child,
+    Why do you cling to me?
+
+                           EGIL
+                   [_Approaching her._]
+                           Goddess and maiden!
+
+                          THORDIS
+    He’s mad. Save us! We both are mad.
+
+                         INGIMUND
+                                      Thy brother,
+    Where is he?
+
+                           EGIL
+                 Father, he hath gone before
+    A little space, but left thy word with me.
+
+                         INGIMUND
+        _My_ word?
+
+                           EGIL
+               The word of truth.
+
+    [_A little girl, moving back some of the flowers, has
+        disclosed the dead body of Arfi, blood-stained._]
+
+                       THE LITTLE GIRL
+                              He’s still asleep.
+
+                          THORDIS
+                 [_Goes to it with a cry._]
+    Arfi!
+
+                           WULDOR
+          I thought it, Ingimund; he’s murdered.
+
+                          INGIMUND
+    His bane! What hand struck this?
+
+                           EGIL
+                                     Lo, I will tell;
+    The dream must end. Thou saidest: He shall perish,
+    And all the spirits of light, freed from that dread,
+    Shall strew his charnel, singing.
+
+                          INGIMUND
+                                   Madman! Thou—
+
+                           YORUL
+                [_Entering from the thicket._]
+        _I_ murdered him.
+
+                          THORDIS
+                [_Starting up from the body._]
+                      Yorul!
+
+                           YORUL
+                     [_Showing dagger._]
+                             His blood is here.
+
+                           EGIL
+    Yet shall the dreamers wake, the truth prevail.
+
+                           YORUL
+    ’Twas I! This hand—
+
+                           EGIL
+                      And shall that hand put out
+    The beacons of the gods with primal dark,
+    And hurl the blinded world to chaos?
+
+                          THORDIS
+                                         Egil!
+    Thou art innocent! Oh, in this blank of death
+    That truth remains.
+
+                           EGIL
+                  [_Turning upon Yorul._]
+                        Scourge and seductor!
+
+                         INGIMUND
+                        [_To Egil._]
+                                       Speak!
+    Hath this man done this deed?
+
+                           EGIL
+                        [_Slowly._]
+                               Yes; it was Yorul.
+
+                    [_Yorul is seized._]
+
+
+
+
+ACT IV
+
+
+SCENE: The rune-stone.
+
+    _A white-rose bush, beside it, in bloom; a flame on the
+        altar; sunset._
+
+          _Enter_ EGIL, _alone_.
+
+                           EGIL
+    Put it away? To put all from me—all—
+    Or else despoil! Renounce, or with a kiss
+    Consume the bright seduction! Mar—relinquish,
+    In either path, to suffer; yet to see
+    Myself at last for what I am, to know
+    The inexorable bars, the nudging rafters,
+    The starry lych-gate and the pit of tears
+    Of this my soul and penthouse.—And the escape!
+    To know that I—myself the miracle
+    I worshipped—am a god, a sovereign lord
+    Of nature, powerful to make the bounds
+    And marches of the heaven my petty fiefs
+    Of mind,—yet what a god! A clawed usurper,
+    That snatches from the shoulders of the gods
+    The green and azure cloth of summer-time,
+    This human tapestry of spring and harvest
+    Star-wrought with sanguine hearts and golden sheaves,
+    And tears it, tooth-meal, for a wolf’s lair.—This,
+    This also must have challenge: Might not Egil
+    O’ermaster Fenris? Can the mind o’ermaster
+    The will?
+               [_Supplicating the rune-stone._]
+             O mystery, that made us two
+    Yet one, resolve thyself and this and seal it!
+    To put all, all away, or with a kiss consume?
+
+    [_Pausing, he breaks a white rose, and holding it near
+        and nearer the altar-flame watches it—as though for
+        a sign—till it scorches; then snatching it back,
+        extinguishes the flame. While he is bending over thus_,
+        THORDIS _enters,—in her hands a rope of
+        twined arbutus-flowers. All in white, she is very pale;
+        approaching behind Egil, she watches over his shoulder
+        the rose petals and the flame. Suddenly, throwing the
+        rope of arbutus over his head, she winds it about him.
+        Turning, he drops the rose, and they gaze at each other,
+        anguished._]
+
+                           EGIL
+                    [_After a silence._]
+    Why have you left the body?
+
+                          THORDIS
+        [_Binding his arms down with the blossoms._]
+                                I have come
+    To bring you back in chains to prison.
+
+                           EGIL
+                                 Where—
+
+                          THORDIS
+    I know a dungeon where the dead are not.
+
+                           EGIL
+    Where—have you left the body?
+
+                          THORDIS
+                                 They are bringing
+    Their burden here.
+
+                           EGIL
+                       These flowers?
+
+                          THORDIS
+                                  Arbutus.
+
+                           EGIL
+                                            Those?
+    And you could weave of those this chain for me?
+
+                          THORDIS
+    Could weave a garland of a winding-sheet?
+    I could; I did; and whilst I wove, I heard
+    Above my head the small birds singing “Horror,”
+    And underfoot “Horror” the sweet grass sang;
+    But in my bosom sung, “He loves me.”
+
+                           EGIL
+                                    Keep
+    From me, lest thou be scorched.
+
+                          THORDIS
+                                 Was he not gentle,
+    Exalted, tender? Who that saw his smile
+    But thought “A star breaks”?—Now for us all dark,
+    A shape of clay. Oh, why should sudden love
+    Come like the tempest, and blot out from skies
+    Of memory all golden yesterdays?
+    But so it is; the storm of thee shuts down
+    Over my world; thy lightnings have put out
+    His smile.
+
+                           EGIL
+               Is it not enough that I have spilled
+    His blood upon my soul, but must that, more,
+    Pollute the whiteness of a goddess’ heart
+    And desecrate perfection?
+
+                          THORDIS
+       [_With a wan smile of pain, drawing him with the
+                   arbutus toward her._]
+                              Come—to prison.
+
+                           EGIL
+    His blood, I said; did you not hear? Not Yorul—
+    _I_ murdered him!
+
+                          THORDIS
+                      You do not understand;
+    It was not you; ’twas I.
+
+                           EGIL
+                             The hand of Yorul
+    Stabbed him, but my intent.
+
+                          THORDIS
+                             You do not ask
+    Where I’ve prepared your dungeon.—Come.
+
+                           EGIL
+                                   Too late,
+    You precious chains! I am free.
+
+                          THORDIS
+                                 Thy words again!
+    “Free, but alone, adrift!” I hear thee still,
+    Forever, calling in thy need of me—
+    “O take me back, the wild thing!” Come!—I take thee;
+    I nestle thee once more, a captive. Come,
+    Alone no more!
+
+                           EGIL
+                   It is too late. ’Tis he,
+    Your god and lover, whom they are bringing back
+    To claim you.
+
+                          THORDIS
+                     [_Clinging to him._]
+                  Who shall claim me from your side?
+
+    [_Enter a procession of folk, virgins, and children, bearing
+        a low bier, covered with a cloth of green, behind which
+        walks_ YORUL, _bound_. INGIMUND, _who
+        enters first, ascends, by the stone steps, the altar,
+        before which the bier is set down. While this is being
+        borne, the dirge continues._]
+
+                      VIRGINS AND CHILDREN
+                           [_Chant._]
+                      Heiri! heiri! heiri!
+                        Othin ok Æsir!
+
+    [_Ingimund signs to a priest to loosen the hands of Yorul,
+    who stands in front of the bier._]
+
+                         INGIMUND
+    Give him the cup. The murderer shall drink
+    The bane of murder.
+
+        [_The priest hands to Yorul a cup, which, as he raises it
+            quietly to his lips, is wrenched from his hand by Egil,
+            who embraces him._]
+
+                           EGIL
+                        My deliverer!—
+    Brother, awake! I give thee back thy bride.
+        [_On the bier, the green cloth is thrown back, and_
+            BALDUR, _rising, steps upon the altar._
+            THORDIS _gazes upon him._]
+    This is my heart’s desire—take it! ’tis yours.
+
+                          BALDUR
+            Freyja!
+
+                          THORDIS
+             [_With a wild cry, going to him._]
+            Baldur!
+
+                          THE FOLK
+                 [_Prostrating themselves._]
+                    The gods! the gods!
+
+        [_Thordis and Ingimund, by Baldur’s side, are transfigured,
+            and a hedge of flowers and flame springs up before the
+            altar, encircling the three._]
+
+                           EGIL
+              [_Apart, drinks from the cup._]
+                                        To freedom!
+
+    [_Baldur and Thordis, clinging to each other, look at Egil._]
+
+                           YORUL
+             [_Staring at Baldur, speaks to Egil._]
+    Whom, lord, dost thou name “brother”?
+
+                           EGIL
+                                     Him—and thee,
+    Both, for through me henceforward you are kindred.
+    Yorul! my men, my liegemen! you—you also
+    Conceived in chains and born in passion, you
+    Also, who from an immemorial brute
+    Rage for emancipation, oh, forget not
+    Your brother Fenris, him who was brought forth
+    A glorious miscarriage of the gods,
+    To be exalted to a man.
+                    [_He sinks upon the bier._]
+                            The chains!
+    Yorul—the chains!
+
+    [_Striving to break the arbutus links, which hang loosely
+           upon him, he falls back._]
+
+                           YORUL
+                          Master!
+
+                           ODIN
+                           The wolf is tamed.
+
+    [_In sudden fire, the gods disappear, leaving deep twilight.
+        Vague, the body of Egil lies dead on the bier._ _Beside
+        it, amid the prostrate folk, rising alone, stands Yorul,
+        with arms upreached toward the rune-stone._]
+
+                  THE VIRGINS AND CHILDREN
+                        [_Singing._]
+                      Heiri! heiri! heiri!
+                        Balthur ok Freyja!
+
+        [_Far off, the ice-crown of the volcano flushes in
+                the afterglow._]
+
+
+
+
+      *      *      *      *      *      *
+
+
+
+
+Transcriber’s note:
+
+  Old or antiquated spellings have been preserved.
+
+  Typographical errors have been silently corrected but other variations
+    in spelling and punctuation remain unaltered.
+
+  Each act in the original had a full page identifying the act as well
+    as a heading at the beginning of the act. The full page act numbers
+    have been removed from this edition as being redundant.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK FENRIS, THE WOLF***
+
+
+******* This file should be named 57371-0.txt or 57371-0.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/5/7/3/7/57371
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org 
+
+Section 3. Information about the Project Gutenberg Literary 
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
