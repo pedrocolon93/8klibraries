@@ -26,6 +26,7 @@ public class shelfBook : MonoBehaviour {
         coverColor = generateCover();
         gameObject.transform.localScale = new Vector3(w, h, DEPTH);
         gameObject.GetComponent<Renderer>().material = coverColor;
+        gameObject.tag = "closedBook";
     }
 
     private float generateWidth()
@@ -42,6 +43,9 @@ public class shelfBook : MonoBehaviour {
         Colors colorName = (Colors)colorCode;
         Material colorMat = Resources.Load<Material>("Materials/"+colorName) as Material;
         return colorMat;
+    }
+    public float getWidth(){
+        return w;
     }
     public void setAuthor(string authorName)
     {
@@ -65,11 +69,14 @@ public class shelfBook : MonoBehaviour {
  		t.fontSize = 15;
  		t.transform.parent = wrapper.transform;
  		wrapper.transform.parent = gameObject.transform;
+        wrapper.transform.localPosition = new Vector3(0.0f, 0.0f, 0.0f);
+        //wrapper.transform.localEulerAngles = new Vector3(0, 0, 0);
  		//then try to get the position right:
  		//full of hard-coded values to deal with
  		t.transform.localEulerAngles += new Vector3(0, 0, -90);
         //the following calculations are indescribably arbitrary
-        t.transform.localPosition += new Vector3(w/3, (h/2)-2.0f, DEPTH/-2);    }
+        t.transform.localPosition += new Vector3(w/3, (h/2)-2.0f, DEPTH/-2);    
+    }
     
 	private void addAuthorText(){
     	GameObject wrapper = GameObject.CreatePrimitive(PrimitiveType.Cube);
@@ -79,6 +86,7 @@ public class shelfBook : MonoBehaviour {
  		t.fontSize = 7;
  		t.transform.parent = wrapper.transform;
  		wrapper.transform.parent = gameObject.transform;
+        wrapper.transform.localPosition = new Vector3(0.0f, 0.0f, 0.0f);
  		//then try to get the position right:
  		//full of hard-coded things to deal with
  		//t.transform.localEulerAngles += new Vector3(0, 0, 0);
@@ -100,6 +108,7 @@ public class shelfBook : MonoBehaviour {
         }
 		
 	}
+
 
     enum Colors
     {

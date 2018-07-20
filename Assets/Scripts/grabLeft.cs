@@ -16,8 +16,6 @@ public class grabLeft : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		held = null;//casual reminder that this might break all of the things and should probably be cleaned up later
-		Debug.Log("GrabLeft script running");
-
 		//create hand
 		handL = gameObject.AddComponent<DetectJoints>() as DetectJoints;
 		//JointType handLeft = JointType.HandLeft;
@@ -27,7 +25,7 @@ public class grabLeft : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if(Input.GetKeyDown("o")){//replace with right hand grab
-			Debug.Log("You pressed the p key");
+			Debug.Log("You pressed the o key");
 			if(selectBook.getHeldObject().tag == "closedBook"){
 				Debug.Log("(L)You should be holding " + selectBook.getHeldObject() + " now");
 				selectBook.getHeldObject().transform.SetParent(this.gameObject.transform);
@@ -38,19 +36,26 @@ public class grabLeft : MonoBehaviour {
 
 
 	void OnTriggerEnter(Collider other){
+		if(other.transform.root.gameObject.tag == "hand" && selectBook.tooManyBooks == false){
+			Debug.Log("Hands are touching");
+		}
 		if(holding == false){
-			Debug.Log("You touched " + other.gameObject);
+			//Debug.Log("You touched " + other.gameObject);
 			if (other.gameObject.tag == "closedBook"){
 				held = other;
 				selectBook.setHeldObject(other.gameObject);
-				Debug.Log("(L)You're holding a thing! > " + other.gameObject);
+				//Debug.Log("(L)You're holding a thing! > " + other.gameObject);
 			}
 		}
 	}
 
 	void OnTriggerExit(Collider other){
+		if(other.transform.root.gameObject.tag == "hand"){
+			Debug.Log("Hands are touching");
+			selectBook.handsAreTouching = false;
+		}
 		if(holding == false){
-			Debug.Log("(L)You are no longer touching " + other.gameObject);
+			//Debug.Log("(L)You are no longer touching " + other.gameObject);
 			selectBook.setHeldObject(GameObject.Find("handL"));
 		}
 	}

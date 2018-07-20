@@ -38,19 +38,27 @@ public class grabRight : MonoBehaviour {
 	
 		//are you holding something right now?
 	void OnTriggerEnter(Collider other){
+		if(other.transform.root.gameObject.tag == "hand" && selectBook.tooManyBooks == false){
+			Debug.Log("Hands are touching");
+			selectBook.handsAreTouching = true;
+		}
 		if(holding == false){//if we aren't already holding something
-			Debug.Log("You touched " + other.gameObject);
+			//Debug.Log("You touched " + other.gameObject);
 			if (other.gameObject.tag == "closedBook"){
 				held = other;
 				selectBook.setHeldObject(other.gameObject);
-				Debug.Log("(R)You're holding a thing!\n" + other.gameObject);
+				//Debug.Log("(R)You're holding a thing!\n" + other.gameObject);
 			}
 		}
 	}
 
 	void OnTriggerExit(Collider other){
+		if(other.transform.root.gameObject.tag == "hand"){
+			Debug.Log("Hands are touching");
+			selectBook.handsAreTouching = false;
+		}
 		if(holding == false){
-			Debug.Log("(R)You are no longer touching " + other.gameObject);
+			//Debug.Log("(R)You are no longer touching " + other.gameObject);
 			selectBook.setHeldObject(GameObject.Find("handR"));
 		}
 	}
