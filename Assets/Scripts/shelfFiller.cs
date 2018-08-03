@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
+using System;
 
 public class shelfFiller : MonoBehaviour {
 
@@ -87,9 +88,24 @@ public class shelfFiller : MonoBehaviour {
 
 		      	//set remaining book details
 		      	string[] nameParts = fileName.Split('-');
-		      	currentBook.setAuthor(nameParts[0]);
-		      	currentBook.setTitle(nameParts[1]);
-		      	
+                Debug.Log(nameParts.ToString());
+                try
+                {
+                    currentBook.setAuthor(nameParts[0]);
+                }
+                catch (Exception e)
+                {
+                    currentBook.setAuthor("ERROR");
+                }
+                try
+                {
+                    currentBook.setTitle(nameParts[1]);
+                }
+                catch (Exception e)
+                {
+                    currentBook.setTitle("ERROR");
+                }
+                
 		    }
 	    }
 	}
