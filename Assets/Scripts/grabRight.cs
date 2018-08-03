@@ -8,30 +8,64 @@ using Windows.Kinect;
 
 public class grabRight : MonoBehaviour {
 	private Collider held;
-	private DetectJoints handR;
-	public JointType handRight;
+	private DetectJoints handR, elbowR;
+	public JointType handRight, elbowRight;
 	private static bool holding = false;//you only have one right hand
+
+	public float multiplier = 100f; //for hand position
+
+	//calculate reach into the z axis
+	public GameObject elbow, realHand;
+	public float ARM_LENGTH;
+	private float measuredArm;
+	private float reachDepth;
 
 
 	// Use this for initialization
 	void Start () {
-		held = null;//casual reminder that this might break all of the things and should probably be cleaned up later
-		Debug.Log("GrabRight script running");
-
-		//create hand
+		held = null;
+		//create arm
 		handR = gameObject.AddComponent<DetectJoints>() as DetectJoints;
-		//JointType handRight = JointType.HandRight;
 		handR.SetTrackedJoint(handRight);
+		elbowR = elbow.AddComponent<DetectJoints>() as DetectJoints;
+		elbowR.SetTrackedJoint(elbowRight);
 	}
 	
 	// Update is called once per frame
+
 	void Update () {
-		if(Input.GetKeyDown("p")){//replace with right hand grab
-			Debug.Log("You pressed the p key");
+		if(holding == false && transform.childCount>0){
+			//Debug.Log("(R)Your hand should be empty, but you're still holding something. Letting go now.");
+			//Debug.Log("That child is " + transform.GetChild(0));
+			transform.GetChild(0).transform.parent = GameObject.Find("world").transform;
+		}
+
+		//calculate reach into the z axis
+		float xChunk = (handR.getPosX()-elbowR.getPosX());
+		float yChunk = (handR.getPosY()-elbowR.getPosY());
+		measuredArm = xChunk * xChunk + yChunk * yChunk;
+		//you should technically take the square root of this, but mirroring reality exactly is lame
+		reachDepth = ARM_LENGTH * ARM_LENGTH - measuredArm * measuredArm;
+		//and update the position
+		//only kind of a hardcoded nightmare
+		gameObject.transform.localPosition = new Vector3(handR.getPosX() * multiplier, handR.getPosY() * multiplier, (reachDepth * multiplier*100) -40);
+
+		//grab a book
+		if(handR.isRightHandClosed || Input.GetKeyDown("p")){
 			if(selectBook.getHeldObject().tag == "closedBook"){
-				Debug.Log("(R)You should be holding " + selectBook.getHeldObject() + " now");
 				selectBook.getHeldObject().transform.SetParent(this.gameObject.transform);
 				holding = true;//we need to check that it worked before we do this
+			}
+		}
+		//let go
+		if((!handR.isRightHandClosed && holding ==true) || (Input.GetKeyDown("l") && holding == true)){
+			holding = false;
+			//if its a hand, keep it on your body
+			if(selectBook.getHeldObject().tag == "hand"){
+				selectBook.getHeldObject().transform.parent = GameObject.Find("playerBody").transform;
+			}
+			else{//this part isn't working                                                                                   !
+				selectBook.getHeldObject().transform.parent = GameObject.Find("world").transform;
 			}
 		}
 	}
@@ -54,7 +88,7 @@ public class grabRight : MonoBehaviour {
 
 	void OnTriggerExit(Collider other){
 		if(other.transform.root.gameObject.tag == "hand"){
-			Debug.Log("Hands are touching");
+			//Debug.Log("Hands are touching");
 			selectBook.handsAreTouching = false;
 		}
 		if(holding == false){

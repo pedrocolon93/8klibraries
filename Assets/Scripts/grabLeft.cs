@@ -8,28 +8,62 @@ using Windows.Kinect;
 
 public class grabLeft : MonoBehaviour {
 	private Collider held;
-	private DetectJoints handL;
-	public JointType handLeft;
+	private DetectJoints handL, elbowL;
+	public JointType handLeft, elbowLeft;
 	private static bool holding = false;//you only have one left hand
+
+	public float multiplier = 100f; //for hand position
+
+	//calculate reach into the z axis
+	public GameObject elbow, realHand;
+	public float ARM_LENGTH;
+	private float measuredArm;
+	private float reachDepth;
 
 
 	// Use this for initialization
 	void Start () {
-		held = null;//casual reminder that this might break all of the things and should probably be cleaned up later
-		//create hand
+		held = null;
+		//create arm
 		handL = gameObject.AddComponent<DetectJoints>() as DetectJoints;
-		//JointType handLeft = JointType.HandLeft;
 		handL.SetTrackedJoint(handLeft);
+		elbowL = elbow.AddComponent<DetectJoints>() as DetectJoints;
+		elbowL.SetTrackedJoint(elbowLeft);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetKeyDown("o")){//replace with right hand grab
-			Debug.Log("You pressed the o key");
+		if(holding == false && transform.childCount>0){
+			//Debug.Log("(L)Your hand should be empty, but you're still holding something. Letting go now.");
+			//Debug.Log("That child is " + transform.GetChild(0));
+			transform.GetChild(0).transform.parent = GameObject.Find("world").transform;
+		}
+		//calculate reach into the z axis
+		float xChunk = (handL.getPosX()-elbowL.getPosX());
+		float yChunk = (handL.getPosY()-elbowL.getPosY());
+		measuredArm = xChunk * xChunk + yChunk * yChunk;
+		//you should technically take the square root of this, but mirroring reality exactly is lame
+		reachDepth = ARM_LENGTH * ARM_LENGTH - measuredArm * measuredArm;
+		//and update the position
+		//only kind of a hardcoded nightmare
+		gameObject.transform.localPosition = new Vector3(handL.getPosX() * multiplier, handL.getPosY() * multiplier, (reachDepth * multiplier*100) -40);
+		
+		//grab book
+		if(handL.isLeftHandClosed || Input.GetKeyDown("o")){
 			if(selectBook.getHeldObject().tag == "closedBook"){
-				Debug.Log("(L)You should be holding " + selectBook.getHeldObject() + " now");
 				selectBook.getHeldObject().transform.SetParent(this.gameObject.transform);
-				holding = true;//we need to check that it worked before we do this
+				holding = true;
+			}
+		}
+		//let go
+		if((!handL.isLeftHandClosed && holding ==true) || (Input.GetKeyDown("o") && holding == true)){
+			holding = false;
+			//if its a hand, keep it on your body
+			if(selectBook.getHeldObject().tag == "hand"){
+				selectBook.getHeldObject().transform.parent = GameObject.Find("playerBody").transform;
+			}
+			else{//this part isn't working                                                                                   !
+				selectBook.getHeldObject().transform.parent = GameObject.Find("world").transform;
 			}
 		}
 	}
@@ -38,6 +72,7 @@ public class grabLeft : MonoBehaviour {
 	void OnTriggerEnter(Collider other){
 		if(other.transform.root.gameObject.tag == "hand" && selectBook.tooManyBooks == false){
 			Debug.Log("Hands are touching");
+			selectBook.handsAreTouching = true;
 		}
 		if(holding == false){
 			//Debug.Log("You touched " + other.gameObject);
@@ -51,7 +86,7 @@ public class grabLeft : MonoBehaviour {
 
 	void OnTriggerExit(Collider other){
 		if(other.transform.root.gameObject.tag == "hand"){
-			Debug.Log("Hands are touching");
+			//Debug.Log("Hands are touching");
 			selectBook.handsAreTouching = false;
 		}
 		if(holding == false){

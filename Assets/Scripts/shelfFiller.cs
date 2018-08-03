@@ -19,6 +19,9 @@ public class shelfFiller : MonoBehaviour {
 
 	private GameObject[] shelves;
 
+	//the number of times we're looping over the collection to make it look like the shelves are full
+	public int collectionLoops;
+
 	// Use this for initialization
 	//the order of everything in here is kind of fragile?
 	void Start () {
@@ -27,68 +30,67 @@ public class shelfFiller : MonoBehaviour {
 		bookZPosition = -7.0f;
 		shelves = GameObject.FindGameObjectsWithTag("shelf");
 		GameObject currentBookshelf = shelves[currentBookshelfNum];
-		Debug.Log("currentBookshelf: "+ currentBookshelf);
 		string path = Application.dataPath + "/Text";
 	    string[] filePaths = Directory.GetFiles(@path, "*.txt");
-	    foreach (string file in filePaths)
-	    {
-	     	//create the new book, assign it's details
-	        int startNamePosition = file.LastIndexOf('/');//where does the name of the text file start?
-	        startNamePosition += 6; //deal with the fact that it likes to include "/Text\"
-	        string fileName = file.Substring(startNamePosition);
-	        GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
-	        shelfBook currentBook = cube.AddComponent<shelfBook>() as shelfBook;
-	      	currentBook.setName(fileName);
+	    for(int i = 0; i<= collectionLoops; i++){
+		    foreach (string file in filePaths)
+		    {
+		     	//create the new book, assign it's details
+		        int startNamePosition = file.LastIndexOf('/');//where does the name of the text file start?
+		        startNamePosition += 6; //deal with the fact that it likes to include "/Text\"
+		        string fileName = file.Substring(startNamePosition);
+		        GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+		        shelfBook currentBook = cube.AddComponent<shelfBook>() as shelfBook;
+		      	currentBook.setName(fileName);
 
-	      	//set position
-	      	if(bookZPosition <= SHELF_WIDTH){//this book will fit on the shelf
-		      	currentBook.transform.parent = currentBookshelf.transform;
-		      	currentBook.transform.localPosition = new Vector3(bookXPosition, bookYPosition, bookZPosition);
-		      	bookZPosition += 7.0f;
-		      	bookXPosition += 2.0f;
-		      	currentBook.transform.localEulerAngles = new Vector3(0, 285, 0);
-		      	//Debug.Log(currentBook + "placed at " + currentBook.transform.position);
-		    }
-		    else{
-		    	if(currentShelfNum < 5){//there's another shelf on this bookshelf
-			    	bookZPosition = -7.0f;
-			    	bookYPosition -= SHELF_SPACING;
-			    	bookXPosition = 1.7f;
-			    	currentShelfNum ++;
-			    	Debug.Log("New shelf! " + currentShelfNum);
-			    	currentBook.transform.parent = currentBookshelf.transform;
-		      		currentBook.transform.localPosition = new Vector3(bookXPosition, bookYPosition, bookZPosition);
-		      		bookZPosition += 7.0f;
-		      		bookXPosition += 2.0f;
-		      		currentBook.transform.localEulerAngles = new Vector3(0, 285, 0);
-		      		//Debug.Log(currentBook + "placed at " + currentBook.transform.position);
+		      	//set position
+		      	if(bookZPosition <= SHELF_WIDTH){//this book will fit on the shelf
+			      	currentBook.transform.parent = currentBookshelf.transform;
+			      	currentBook.transform.localPosition = new Vector3(bookXPosition, bookYPosition, bookZPosition);
+			      	bookZPosition += 7.0f;
+			      	bookXPosition += 2.0f;
+			      	currentBook.transform.localEulerAngles = new Vector3(0, 285, 0);
+			      	//Debug.Log(currentBook + "placed at " + currentBook.transform.position);
 			    }
-			    else{//go to the next bookshelf
-			    	currentBookshelfNum ++;
-			    	currentBookshelf = shelves [currentBookshelfNum];
-			    	Debug.Log("New bookshelf! " + currentBookshelf + ":" + currentBookshelfNum);
-			    	bookXPosition = 1.7f; 
-					bookYPosition = 4.1f; 
-					bookZPosition = -7.0f;
-					currentShelfNum = 1;
-					currentBook.transform.parent = currentBookshelf.transform;
-		      		currentBook.transform.localPosition = new Vector3(bookXPosition, bookYPosition, bookZPosition);
-		      		bookZPosition += 7.0f;
-		      		bookXPosition += 2.0f;
-		      		currentBook.transform.localEulerAngles = new Vector3(0, 285, 0);
-		      		//Debug.Log(currentBook + "placed at " + currentBook.transform.position);
+			    else{
+			    	if(currentShelfNum < 5){//there's another shelf on this bookshelf
+				    	bookZPosition = -7.0f;
+				    	bookYPosition -= SHELF_SPACING;
+				    	bookXPosition = 1.7f;
+				    	currentShelfNum ++;
+				    	currentBook.transform.parent = currentBookshelf.transform;
+			      		currentBook.transform.localPosition = new Vector3(bookXPosition, bookYPosition, bookZPosition);
+			      		bookZPosition += 7.0f;
+			      		bookXPosition += 2.0f;
+			      		currentBook.transform.localEulerAngles = new Vector3(0, 285, 0);
+			      		//Debug.Log(currentBook + "placed at " + currentBook.transform.position);
+				    }
+				    else{//go to the next bookshelf
+				    	currentBookshelfNum ++;
+				    	currentBookshelf = shelves [currentBookshelfNum];
+				    	bookXPosition = 1.7f; 
+						bookYPosition = 4.1f; 
+						bookZPosition = -7.0f;
+						currentShelfNum = 1;
+						currentBook.transform.parent = currentBookshelf.transform;
+			      		currentBook.transform.localPosition = new Vector3(bookXPosition, bookYPosition, bookZPosition);
+			      		bookZPosition += 7.0f;
+			      		bookXPosition += 2.0f;
+			      		currentBook.transform.localEulerAngles = new Vector3(0, 285, 0);
+			      		//Debug.Log(currentBook + "placed at " + currentBook.transform.position);
+				    }
 			    }
-		    }
-	      	//the good way to go to the next book, but currently broken.
-	      	// bookZPosition += currentBook.getWidth();
-	      	// Debug.Log("increment by: "+ currentBook.getWidth());
-	      	// Debug.Log("New Z> "+ bookZPosition);
+		      	//the good way to go to the next book, but currently broken.
+		      	// bookZPosition += currentBook.getWidth();
+		      	// Debug.Log("increment by: "+ currentBook.getWidth());
+		      	// Debug.Log("New Z> "+ bookZPosition);
 
-	      	//set remaining book details
-	      	string[] nameParts = fileName.Split('-');
-	      	currentBook.setAuthor(nameParts[0]);
-	      	currentBook.setTitle(nameParts[1]);
-	      	
+		      	//set remaining book details
+		      	string[] nameParts = fileName.Split('-');
+		      	currentBook.setAuthor(nameParts[0]);
+		      	currentBook.setTitle(nameParts[1]);
+		      	
+		    }
 	    }
 	}
 	

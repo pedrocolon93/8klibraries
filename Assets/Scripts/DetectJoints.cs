@@ -16,6 +16,10 @@ public class DetectJoints : MonoBehaviour {
 	public HandState handBehavior;
 	//private Vector3 rot;//rotation
 
+	public bool isLeftHandClosed;
+	public bool isRightHandClosed;
+
+	private float posX, posY;
 
 	// Use this for initialization
 	void Start () 
@@ -53,15 +57,17 @@ public class DetectJoints : MonoBehaviour {
 			if(body.IsTracked)
 			{
 				var pos = body.Joints[TrackedJoint].Position;
-				gameObject.transform.position = new Vector3(pos.X * multiplier, pos.Y * multiplier);
-				//Debug.Log("Expected: Hand Left > " + body.Joints[TrackedJoint].JointType);//this is suggesting that everything might be broken?
-				//set rotation to the rotation of the joint
-				//it's unclear if this is breaking it, or if it's the light
-				//var orientation = body.JointOrientations[TrackedJoint].Orientation;
-				//Vector3 rot = new Vector3((float)orientation.Pitch(), (float)orientation.Yaw(), (float)orientation.Roll());
-				//gameObject.transform.rotation.eulerAngles = rot;
-				//var rot = body.Joints[TrackedJoint].Or
-				//Debug.Log("Joint Orientation? " + body.Joints[TrackedJoint].transform.rotation.eulerAngles);
+				posX = pos.X;
+				posY = pos.Y;
+				if(!(TrackedJoint == Windows.Kinect.JointType.HandLeft || TrackedJoint == Windows.Kinect.JointType.HandRight)){//if what we're tracking isn't a hand
+					gameObject.transform.localPosition = new Vector3(pos.X * multiplier, pos.Y * multiplier);
+				}
+
+				isLeftHandClosed = body.HandLeftState == HandState.Closed;
+				isRightHandClosed = body.HandRightState == HandState.Closed;
+
+				//calculate z axis position of hands
+				//how to check if it's a hand
 			}
 		}
 		
@@ -73,5 +79,11 @@ public class DetectJoints : MonoBehaviour {
 	public void SetTrackedJoint(JointType jointName){
 		TrackedJoint = jointName;
 		Debug.Log("Tracked Joint> " + TrackedJoint);
+	}
+	public float getPosX(){
+		return posX;
+	}
+	public float getPosY(){
+		return posY;
 	}
 }
