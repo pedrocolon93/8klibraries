@@ -40,6 +40,7 @@ public class DetectJoints : MonoBehaviour {
 		if(bodyManager == null)
 		{
 			Debug.Log("Body Manager not assigned");
+			Debug.Log("Aubrey's super gigantic change which is important");
 			return;
 		}
 		bodies = bodyManager.GetData();
