@@ -1,3 +1,2 @@
-# 8klibraries
+# 8klibrary
 Aubrey's summer project's home!
-# 8KLibrary

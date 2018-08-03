@@ -8,6 +8,7 @@ using UnityEngine;
 public class selectBook : MonoBehaviour {
 	private static GameObject heldObject;
 	private GameObject book;
+<<<<<<< HEAD
 	private GameObject [] openBooks = new GameObject [5];
 	public GameObject openBook, playerBody;
 	private static Collider held;
@@ -20,12 +21,22 @@ public class selectBook : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+=======
+	public GameObject openBook;
+	private static Collider held;
+	private static string title = "no book selected";
+
+	// Use this for initialization
+	void Start () {
+		Debug.Log("Select Book script running.");
+>>>>>>> 3a4194d82394f2f4feb1ddf77d662cd198b1c1b6
 		heldObject = GameObject.Find("Sphere");
 		held = heldObject.GetComponent<Collider>();
 	}
 	
 	// Update is called once per frame
 	void Update () {
+<<<<<<< HEAD
 		//close book
 		if(Input.GetKeyDown("x")){
 
@@ -120,6 +131,22 @@ public class selectBook : MonoBehaviour {
 				}
 			}
 		}
+=======
+			if (Input.GetKeyDown("space")){//chenge this to be your grip interaction
+				Debug.Log("You pressed the space bar!");
+				if(grabLeft.isHolding() || grabRight.isHolding()){//you'll need to sort this out more when which hand is grabbing matters
+					if(heldObject.tag == "closedBook"){
+						title = heldObject.name;
+						Debug.Log("the title of this book is " + title);
+						Destroy(heldObject);//does this set things to null or do you now have a weird broken ref?
+						book = Instantiate(openBook);
+						heldObject = GameObject.Find("Sphere");
+						held = GameObject.Find("Sphere").GetComponent<Collider>();
+						title = "no book selected";
+					}
+				}
+			} 
+>>>>>>> 3a4194d82394f2f4feb1ddf77d662cd198b1c1b6
 	}
 	public static string GetTitle(){
 		return title;
